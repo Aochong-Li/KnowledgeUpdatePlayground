@@ -1,0 +1,68 @@
+  0%|                                                                                                                                                                  | 0/362 [00:00<?, ?it/s]Traceback (most recent call last):
+  File "/home/al2644/research/codebase/knowledge_update/training/train.py", line 60, in <module>
+    train()
+  File "/home/al2644/research/codebase/knowledge_update/training/train.py", line 54, in train
+    trainer.train()
+  File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/transformers/trainer.py", line 1938, in train
+    return inner_training_loop(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/transformers/trainer.py", line 2236, in _inner_training_loop
+    for step, inputs in enumerate(epoch_iterator):
+  File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/accelerate/data_loader.py", line 552, in __iter__
+    current_batch = next(dataloader_iter)
+                    ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/torch/utils/data/dataloader.py", line 630, in __next__
+    data = self._next_data()
+           ^^^^^^^^^^^^^^^^^
+  File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/torch/utils/data/dataloader.py", line 673, in _next_data
+    data = self._dataset_fetcher.fetch(index)  # may raise StopIteration
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/torch/utils/data/_utils/fetch.py", line 55, in fetch
+    return self.collate_fn(data)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/transformers/data/data_collator.py", line 271, in __call__
+    batch = pad_without_fast_tokenizer_warning(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/transformers/data/data_collator.py", line 66, in pad_without_fast_tokenizer_warning
+    padded = tokenizer.pad(*pad_args, **pad_kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/transformers/tokenization_utils_base.py", line 3520, in pad
+    padding_strategy, _, max_length, _ = self._get_padding_truncation_strategies(
+                                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/transformers/tokenization_utils_base.py", line 2959, in _get_padding_truncation_strategies
+    raise ValueError(
+ValueError: Asking to pad but the tokenizer does not have a padding token. Please select a token to use as `pad_token` `(tokenizer.pad_token = tokenizer.eos_token e.g.)` or add a new pad token via `tokenizer.add_special_tokens({'pad_token': '[PAD]'})`.
+[rank0]: Traceback (most recent call last):
+[rank0]:   File "/home/al2644/research/codebase/knowledge_update/training/train.py", line 60, in <module>
+[rank0]:     train()
+[rank0]:   File "/home/al2644/research/codebase/knowledge_update/training/train.py", line 54, in train
+[rank0]:     trainer.train()
+[rank0]:   File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/transformers/trainer.py", line 1938, in train
+[rank0]:     return inner_training_loop(
+[rank0]:            ^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/transformers/trainer.py", line 2236, in _inner_training_loop
+[rank0]:     for step, inputs in enumerate(epoch_iterator):
+[rank0]:   File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/accelerate/data_loader.py", line 552, in __iter__
+[rank0]:     current_batch = next(dataloader_iter)
+[rank0]:                     ^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/torch/utils/data/dataloader.py", line 630, in __next__
+[rank0]:     data = self._next_data()
+[rank0]:            ^^^^^^^^^^^^^^^^^
+[rank0]:   File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/torch/utils/data/dataloader.py", line 673, in _next_data
+[rank0]:     data = self._dataset_fetcher.fetch(index)  # may raise StopIteration
+[rank0]:            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/torch/utils/data/_utils/fetch.py", line 55, in fetch
+[rank0]:     return self.collate_fn(data)
+[rank0]:            ^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/transformers/data/data_collator.py", line 271, in __call__
+[rank0]:     batch = pad_without_fast_tokenizer_warning(
+[rank0]:             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/transformers/data/data_collator.py", line 66, in pad_without_fast_tokenizer_warning
+[rank0]:     padded = tokenizer.pad(*pad_args, **pad_kwargs)
+[rank0]:              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/transformers/tokenization_utils_base.py", line 3520, in pad
+[rank0]:     padding_strategy, _, max_length, _ = self._get_padding_truncation_strategies(
+[rank0]:                                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/transformers/tokenization_utils_base.py", line 2959, in _get_padding_truncation_strategies
+[rank0]:     raise ValueError(
+[rank0]: ValueError: Asking to pad but the tokenizer does not have a padding token. Please select a token to use as `pad_token` `(tokenizer.pad_token = tokenizer.eos_token e.g.)` or add a new pad token via `tokenizer.add_special_tokens({'pad_token': '[PAD]'})`.

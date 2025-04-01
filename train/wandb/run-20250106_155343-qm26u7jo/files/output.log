@@ -1,0 +1,9 @@
+  0%|                                                                                                                                                                 | 0/1086 [00:00<?, ?it/s]
+> /home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/transformers/trainer.py(3355)compute_loss()
+-> """
+*** NameError: name 'untiluuu' is not defined
+*** SyntaxError: invalid syntax
+*** NameError: name 'ntil' is not defined
+*** NameError: name 'untilextei' is not defined
+*** NameError: name 'xit' is not defined
+--KeyboardInterrupt--

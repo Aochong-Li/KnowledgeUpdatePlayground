@@ -1,0 +1,19 @@
+{"time":"2025-01-23T01:37:46.492881412-05:00","level":"INFO","msg":"using version","core version":"0.18.6"}
+{"time":"2025-01-23T01:37:46.492901529-05:00","level":"INFO","msg":"created symlink","path":"/home/al2644/research/codebase/knowledge_update/training/wandb/run-20250123_013746-0hqwjn9j/logs/debug-core.log"}
+{"time":"2025-01-23T01:37:46.614844764-05:00","level":"INFO","msg":"created new stream","id":"0hqwjn9j"}
+{"time":"2025-01-23T01:37:46.614906935-05:00","level":"INFO","msg":"stream: started","id":"0hqwjn9j"}
+{"time":"2025-01-23T01:37:46.614995755-05:00","level":"INFO","msg":"sender: started","stream_id":"0hqwjn9j"}
+{"time":"2025-01-23T01:37:46.614964991-05:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"0hqwjn9j"}}
+{"time":"2025-01-23T01:37:46.615082854-05:00","level":"INFO","msg":"handler: started","stream_id":{"value":"0hqwjn9j"}}
+{"time":"2025-01-23T01:37:46.826054581-05:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-23T01:37:49.743353158-05:00","level":"INFO","msg":"stream: closing","id":"0hqwjn9j"}
+{"time":"2025-01-23T01:37:49.74339859-05:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-23T01:37:49.744472185-05:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-23T01:37:49.836907038-05:00","level":"WARN","msg":"No job ingredients found, not creating job artifact"}
+{"time":"2025-01-23T01:37:49.836937046-05:00","level":"WARN","msg":"No source type found, not creating job artifact"}
+{"time":"2025-01-23T01:37:49.83694735-05:00","level":"INFO","msg":"sender: sendDefer: no job artifact to save"}
+{"time":"2025-01-23T01:37:50.107636945-05:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-23T01:37:50.253468798-05:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"0hqwjn9j"}}
+{"time":"2025-01-23T01:37:50.253565743-05:00","level":"INFO","msg":"sender: closed","stream_id":"0hqwjn9j"}
+{"time":"2025-01-23T01:37:50.253538805-05:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"0hqwjn9j"}}
+{"time":"2025-01-23T01:37:50.254708747-05:00","level":"INFO","msg":"stream: closed","id":"0hqwjn9j"}

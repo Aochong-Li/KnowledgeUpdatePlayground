@@ -1,0 +1,56 @@
+  0%|                                                                                                                                                                 | 0/3435 [00:00<?, ?it/s]Traceback (most recent call last):
+  File "/home/al2644/research/codebase/knowledge_update/training/train.py", line 82, in <module>
+    train()
+  File "/home/al2644/research/codebase/knowledge_update/training/train.py", line 76, in train
+    trainer.train()
+  File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/transformers/trainer.py", line 1938, in train
+    return inner_training_loop(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/transformers/trainer.py", line 2341, in _inner_training_loop
+    self.optimizer.step()
+  File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/accelerate/optimizer.py", line 171, in step
+    self.optimizer.step(closure)
+  File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/torch/optim/lr_scheduler.py", line 130, in wrapper
+    return func.__get__(opt, opt.__class__)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/torch/optim/optimizer.py", line 484, in wrapper
+    out = func(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/torch/optim/optimizer.py", line 89, in _use_grad
+    ret = func(self, *args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/torch/optim/adamw.py", line 216, in step
+    has_complex = self._init_group(
+                  ^^^^^^^^^^^^^^^^^
+  File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/torch/optim/adamw.py", line 159, in _init_group
+    state["exp_avg_sq"] = torch.zeros_like(
+                          ^^^^^^^^^^^^^^^^^
+torch.OutOfMemoryError: CUDA out of memory. Tried to allocate 224.00 MiB. GPU 0 has a total capacity of 93.02 GiB of which 15.25 MiB is free. Including non-PyTorch memory, this process has 92.99 GiB memory in use. Of the allocated memory 87.96 GiB is allocated by PyTorch, and 3.75 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+[rank0]: Traceback (most recent call last):
+[rank0]:   File "/home/al2644/research/codebase/knowledge_update/training/train.py", line 82, in <module>
+[rank0]:     train()
+[rank0]:   File "/home/al2644/research/codebase/knowledge_update/training/train.py", line 76, in train
+[rank0]:     trainer.train()
+[rank0]:   File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/transformers/trainer.py", line 1938, in train
+[rank0]:     return inner_training_loop(
+[rank0]:            ^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/transformers/trainer.py", line 2341, in _inner_training_loop
+[rank0]:     self.optimizer.step()
+[rank0]:   File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/accelerate/optimizer.py", line 171, in step
+[rank0]:     self.optimizer.step(closure)
+[rank0]:   File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/torch/optim/lr_scheduler.py", line 130, in wrapper
+[rank0]:     return func.__get__(opt, opt.__class__)(*args, **kwargs)
+[rank0]:            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/torch/optim/optimizer.py", line 484, in wrapper
+[rank0]:     out = func(*args, **kwargs)
+[rank0]:           ^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/torch/optim/optimizer.py", line 89, in _use_grad
+[rank0]:     ret = func(self, *args, **kwargs)
+[rank0]:           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/torch/optim/adamw.py", line 216, in step
+[rank0]:     has_complex = self._init_group(
+[rank0]:                   ^^^^^^^^^^^^^^^^^
+[rank0]:   File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/torch/optim/adamw.py", line 159, in _init_group
+[rank0]:     state["exp_avg_sq"] = torch.zeros_like(
+[rank0]:                           ^^^^^^^^^^^^^^^^^
+[rank0]: torch.OutOfMemoryError: CUDA out of memory. Tried to allocate 224.00 MiB. GPU 0 has a total capacity of 93.02 GiB of which 15.25 MiB is free. Including non-PyTorch memory, this process has 92.99 GiB memory in use. Of the allocated memory 87.96 GiB is allocated by PyTorch, and 3.75 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)

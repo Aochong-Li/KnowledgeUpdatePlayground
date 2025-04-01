@@ -1,0 +1,19 @@
+{"time":"2025-01-06T15:28:29.821208083-05:00","level":"INFO","msg":"using version","core version":"0.18.6"}
+{"time":"2025-01-06T15:28:29.821229342-05:00","level":"INFO","msg":"created symlink","path":"/home/al2644/research/codebase/knowledge_update/training/wandb/run-20250106_152829-a7ta7vay/logs/debug-core.log"}
+{"time":"2025-01-06T15:28:29.94411843-05:00","level":"INFO","msg":"created new stream","id":"a7ta7vay"}
+{"time":"2025-01-06T15:28:29.944150395-05:00","level":"INFO","msg":"stream: started","id":"a7ta7vay"}
+{"time":"2025-01-06T15:28:29.944474323-05:00","level":"INFO","msg":"sender: started","stream_id":"a7ta7vay"}
+{"time":"2025-01-06T15:28:29.944421237-05:00","level":"INFO","msg":"handler: started","stream_id":{"value":"a7ta7vay"}}
+{"time":"2025-01-06T15:28:29.944306218-05:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"a7ta7vay"}}
+{"time":"2025-01-06T15:28:30.169926834-05:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-06T15:51:42.559376811-05:00","level":"INFO","msg":"stream: closing","id":"a7ta7vay"}
+{"time":"2025-01-06T15:51:42.559724053-05:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-06T15:51:42.56139006-05:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-06T15:51:42.658877123-05:00","level":"WARN","msg":"No job ingredients found, not creating job artifact"}
+{"time":"2025-01-06T15:51:42.658924477-05:00","level":"WARN","msg":"No source type found, not creating job artifact"}
+{"time":"2025-01-06T15:51:42.658934902-05:00","level":"INFO","msg":"sender: sendDefer: no job artifact to save"}
+{"time":"2025-01-06T15:51:42.96219642-05:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-06T15:51:43.256118346-05:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"a7ta7vay"}}
+{"time":"2025-01-06T15:51:43.256194191-05:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"a7ta7vay"}}
+{"time":"2025-01-06T15:51:43.256225149-05:00","level":"INFO","msg":"sender: closed","stream_id":"a7ta7vay"}
+{"time":"2025-01-06T15:51:43.258835093-05:00","level":"INFO","msg":"stream: closed","id":"a7ta7vay"}

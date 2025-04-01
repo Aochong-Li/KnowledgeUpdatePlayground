@@ -1,0 +1,23 @@
+name: kup
+channels:
+  - defaults
+  - conda-forge
+  - pytorch
+dependencies:
+  - python=3.10
+  - numpy>=1.26.4
+  - pandas>=2.2.2
+  - scikit-learn>=1.5.2
+  - tqdm>=4.67.1
+  - pytorch>=2.4.0
+  - torchaudio>=2.4.0
+  - torchvision>=0.19.0
+  - pip
+  - pip:
+      - transformers>=4.49.0
+      - datasets>=3.3.2
+      - evaluate>=0.4.3
+      - vllm>=0.6.1
+      - peft>=0.13.2
+      - accelerate>=1.1.1
+      - trl @ git+https://github.com/huggingface/trl.git@7442d42c21697fd6c0998a75e7478ed4b40490be

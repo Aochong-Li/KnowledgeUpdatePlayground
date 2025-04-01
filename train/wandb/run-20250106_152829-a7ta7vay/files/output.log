@@ -1,0 +1,96 @@
+  0%|                                                                                                                                                                 | 0/1086 [00:00<?, ?it/s]
+> /home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/transformers/trainer.py(3355)compute_loss()
+-> """
+> /home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/transformers/trainer.py(3360)compute_loss()
+-> if self.label_smoother is not None and "labels" in inputs:
+> /home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/transformers/trainer.py(3363)compute_loss()
+-> labels = None
+> /home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/transformers/trainer.py(3364)compute_loss()
+-> outputs = model(**inputs)
+> /home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/transformers/trainer.py(3367)compute_loss()
+-> if self.args.past_index >= 0:
+CausalLMOutputWithPast(loss=tensor(2.0887, device='cuda:0', grad_fn=<NllLossBackward0>), logits=tensor([[[ 5.7500,  5.4062,  4.2812,  ..., -4.6250, -4.6250, -4.6250],
+         [ 7.0000,  7.0000,  3.6719,  ..., -8.9375, -8.9375, -8.9375],
+         [ 4.2812,  2.9375, -0.6094,  ..., -9.6250, -9.6250, -9.6250],
+         ...,
+         [ 6.3750,  5.4062,  0.8008,  ..., -4.7812, -4.7812, -4.7812],
+         [11.0625,  8.1250,  3.0312,  ..., -4.4062, -4.4062, -4.4062],
+         [ 4.5312,  3.4375,  0.3477,  ..., -4.4375, -4.4375, -4.4375]]],
+       device='cuda:0', grad_fn=<ToCopyBackward0>), past_key_values=None, hidden_states=None, attentions=None)
+*** NameError: name 'outpuulgt' is not defined
+torch.Size([1, 2048, 128256])
+> /home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/transformers/trainer.py(3370)compute_loss()
+-> if labels is not None:
+> /home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/transformers/trainer.py(3381)compute_loss()
+-> if isinstance(outputs, dict) and "loss" not in outputs:
+> /home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/transformers/trainer.py(3387)compute_loss()
+-> loss = outputs["loss"] if isinstance(outputs, dict) else outputs[0]
+> /home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/transformers/trainer.py(3389)compute_loss()
+-> return (loss, outputs) if return_outputs else loss
+tensor(2.0887, device='cuda:0', grad_fn=<NllLossBackward0>)
+CausalLMOutputWithPast(loss=tensor(2.0887, device='cuda:0', grad_fn=<NllLossBackward0>), logits=tensor([[[ 5.7500,  5.4062,  4.2812,  ..., -4.6250, -4.6250, -4.6250],
+         [ 7.0000,  7.0000,  3.6719,  ..., -8.9375, -8.9375, -8.9375],
+         [ 4.2812,  2.9375, -0.6094,  ..., -9.6250, -9.6250, -9.6250],
+         ...,
+         [ 6.3750,  5.4062,  0.8008,  ..., -4.7812, -4.7812, -4.7812],
+         [11.0625,  8.1250,  3.0312,  ..., -4.4062, -4.4062, -4.4062],
+         [ 4.5312,  3.4375,  0.3477,  ..., -4.4375, -4.4375, -4.4375]]],
+       device='cuda:0', grad_fn=<ToCopyBackward0>), past_key_values=None, hidden_states=None, attentions=None)
+CausalLMOutputWithPast(loss=tensor(2.0887, device='cuda:0', grad_fn=<NllLossBackward0>), logits=tensor([[[ 5.7500,  5.4062,  4.2812,  ..., -4.6250, -4.6250, -4.6250],
+         [ 7.0000,  7.0000,  3.6719,  ..., -8.9375, -8.9375, -8.9375],
+         [ 4.2812,  2.9375, -0.6094,  ..., -9.6250, -9.6250, -9.6250],
+         ...,
+         [ 6.3750,  5.4062,  0.8008,  ..., -4.7812, -4.7812, -4.7812],
+         [11.0625,  8.1250,  3.0312,  ..., -4.4062, -4.4062, -4.4062],
+         [ 4.5312,  3.4375,  0.3477,  ..., -4.4375, -4.4375, -4.4375]]],
+       device='cuda:0', grad_fn=<ToCopyBackward0>), past_key_values=None, hidden_states=None, attentions=None)
+*** NameError: name 'nus' is not defined
+*** NameError: name 'utnput' is not defined
+{'input_ids': tensor([[  328, 91369,   753,  ...,  3580, 74418,   315]], device='cuda:0'), 'labels': tensor([[  328, 91369,   753,  ...,  3580, 74418,   315]], device='cuda:0')}
+  File "/home/al2644/research/codebase/knowledge_update/training/train.py", line 52, in <module>
+    train()
+  File "/home/al2644/research/codebase/knowledge_update/training/train.py", line 46, in train
+    trainer.train()
+  File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/transformers/trainer.py", line 1938, in train
+    return inner_training_loop(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/transformers/trainer.py", line 2279, in _inner_training_loop
+    tr_loss_step = self.training_step(model, inputs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/transformers/trainer.py", line 3318, in training_step
+    loss = self.compute_loss(model, inputs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/transformers/trainer.py", line 3389, in compute_loss
+    return (loss, outputs) if return_outputs else loss
+                              ^^^^^^^^^^^^^^
+  File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/bdb.py", line 90, in trace_dispatch
+    return self.dispatch_line(frame)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/bdb.py", line 115, in dispatch_line
+    if self.quitting: raise BdbQuit
+                      ^^^^^^^^^^^^^
+bdb.BdbQuit
+[rank0]: Traceback (most recent call last):
+[rank0]:   File "/home/al2644/research/codebase/knowledge_update/training/train.py", line 52, in <module>
+[rank0]:     train()
+[rank0]:   File "/home/al2644/research/codebase/knowledge_update/training/train.py", line 46, in train
+[rank0]:     trainer.train()
+[rank0]:   File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/transformers/trainer.py", line 1938, in train
+[rank0]:     return inner_training_loop(
+[rank0]:            ^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/transformers/trainer.py", line 2279, in _inner_training_loop
+[rank0]:     tr_loss_step = self.training_step(model, inputs)
+[rank0]:                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/transformers/trainer.py", line 3318, in training_step
+[rank0]:     loss = self.compute_loss(model, inputs)
+[rank0]:            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/transformers/trainer.py", line 3389, in compute_loss
+[rank0]:     return (loss, outputs) if return_outputs else loss
+[rank0]:                               ^^^^^^^^^^^^^^
+[rank0]:   File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/bdb.py", line 90, in trace_dispatch
+[rank0]:     return self.dispatch_line(frame)
+[rank0]:            ^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/bdb.py", line 115, in dispatch_line
+[rank0]:     if self.quitting: raise BdbQuit
+[rank0]:                       ^^^^^^^^^^^^^
+[rank0]: bdb.BdbQuit

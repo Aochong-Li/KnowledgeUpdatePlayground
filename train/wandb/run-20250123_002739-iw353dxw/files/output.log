@@ -1,0 +1,32 @@
+100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 5/5 [00:29<00:00,  5.74s/it]Saving model checkpoint to /share/goyal/lio/knowledge_delta/training/model/Llama3.23B/scaling-subsample_ratio0.01-knowledge-llama3b_cpt-lr5e-06-rt1-rr0.1-epochs1-blocksize2048-bs4-wd0.01-warmup0.05-Llama3.23B/checkpoint-5
+{'loss': 2.2363, 'grad_norm': 3.1203794479370117, 'learning_rate': 5e-06, 'epoch': 0.2}
+{'loss': 2.287, 'grad_norm': 2.1696903705596924, 'learning_rate': 4.267766952966369e-06, 'epoch': 0.39}
+{'loss': 2.2286, 'grad_norm': 2.0588204860687256, 'learning_rate': 2.5e-06, 'epoch': 0.59}
+{'loss': 2.2418, 'grad_norm': 3.406346082687378, 'learning_rate': 7.322330470336314e-07, 'epoch': 0.78}
+{'loss': 2.295, 'grad_norm': 1.5633153915405273, 'learning_rate': 0.0, 'epoch': 0.98}
+Configuration saved in /share/goyal/lio/knowledge_delta/training/model/Llama3.23B/scaling-subsample_ratio0.01-knowledge-llama3b_cpt-lr5e-06-rt1-rr0.1-epochs1-blocksize2048-bs4-wd0.01-warmup0.05-Llama3.23B/checkpoint-5/config.json
+Configuration saved in /share/goyal/lio/knowledge_delta/training/model/Llama3.23B/scaling-subsample_ratio0.01-knowledge-llama3b_cpt-lr5e-06-rt1-rr0.1-epochs1-blocksize2048-bs4-wd0.01-warmup0.05-Llama3.23B/checkpoint-5/generation_config.json
+The model is bigger than the maximum size per checkpoint (5GB) and is going to be split in 3 checkpoint shards. You can find where each parameters has been saved in the index located at /share/goyal/lio/knowledge_delta/training/model/Llama3.23B/scaling-subsample_ratio0.01-knowledge-llama3b_cpt-lr5e-06-rt1-rr0.1-epochs1-blocksize2048-bs4-wd0.01-warmup0.05-Llama3.23B/checkpoint-5/model.safetensors.index.json.
+2025-01-23 00:29:02,690 - INFO - Saving model to /share/goyal/lio/knowledge_delta/training/model/Llama3.23B/scaling-subsample_ratio0.01-knowledge-llama3b_cpt-lr5e-06-rt1-rr0.1-epochs1-blocksize2048-bs4-wd0.01-warmup0.05-Llama3.23B/checkpoint-5/pytorch_model_fsdp.bin
+2025-01-23 00:29:24,885 - INFO - Model saved to /share/goyal/lio/knowledge_delta/training/model/Llama3.23B/scaling-subsample_ratio0.01-knowledge-llama3b_cpt-lr5e-06-rt1-rr0.1-epochs1-blocksize2048-bs4-wd0.01-warmup0.05-Llama3.23B/checkpoint-5/pytorch_model_fsdp.bin
+2025-01-23 00:29:36,706 - INFO - Saving Optimizer state to /share/goyal/lio/knowledge_delta/training/model/Llama3.23B/scaling-subsample_ratio0.01-knowledge-llama3b_cpt-lr5e-06-rt1-rr0.1-epochs1-blocksize2048-bs4-wd0.01-warmup0.05-Llama3.23B/checkpoint-5/optimizer.bin
+2025-01-23 00:30:16,225 - INFO - Optimizer state saved in /share/goyal/lio/knowledge_delta/training/model/Llama3.23B/scaling-subsample_ratio0.01-knowledge-llama3b_cpt-lr5e-06-rt1-rr0.1-epochs1-blocksize2048-bs4-wd0.01-warmup0.05-Llama3.23B/checkpoint-5/optimizer.bin
+Saving model checkpoint to /share/goyal/lio/knowledge_delta/training/model/Llama3.23B/scaling-subsample_ratio0.01-knowledge-llama3b_cpt-lr5e-06-rt1-rr0.1-epochs1-blocksize2048-bs4-wd0.01-warmup0.05-Llama3.23B/checkpoint-5
+Configuration saved in /share/goyal/lio/knowledge_delta/training/model/Llama3.23B/scaling-subsample_ratio0.01-knowledge-llama3b_cpt-lr5e-06-rt1-rr0.1-epochs1-blocksize2048-bs4-wd0.01-warmup0.05-Llama3.23B/checkpoint-5/config.json
+Configuration saved in /share/goyal/lio/knowledge_delta/training/model/Llama3.23B/scaling-subsample_ratio0.01-knowledge-llama3b_cpt-lr5e-06-rt1-rr0.1-epochs1-blocksize2048-bs4-wd0.01-warmup0.05-Llama3.23B/checkpoint-5/generation_config.json
+The model is bigger than the maximum size per checkpoint (5GB) and is going to be split in 3 checkpoint shards. You can find where each parameters has been saved in the index located at /share/goyal/lio/knowledge_delta/training/model/Llama3.23B/scaling-subsample_ratio0.01-knowledge-llama3b_cpt-lr5e-06-rt1-rr0.1-epochs1-blocksize2048-bs4-wd0.01-warmup0.05-Llama3.23B/checkpoint-5/model.safetensors.index.json.
+2025-01-23 00:31:10,660 - INFO - Saving model to /share/goyal/lio/knowledge_delta/training/model/Llama3.23B/scaling-subsample_ratio0.01-knowledge-llama3b_cpt-lr5e-06-rt1-rr0.1-epochs1-blocksize2048-bs4-wd0.01-warmup0.05-Llama3.23B/checkpoint-5/pytorch_model_fsdp.bin
+2025-01-23 00:31:34,604 - INFO - Model saved to /share/goyal/lio/knowledge_delta/training/model/Llama3.23B/scaling-subsample_ratio0.01-knowledge-llama3b_cpt-lr5e-06-rt1-rr0.1-epochs1-blocksize2048-bs4-wd0.01-warmup0.05-Llama3.23B/checkpoint-5/pytorch_model_fsdp.bin
+2025-01-23 00:31:46,509 - INFO - Saving Optimizer state to /share/goyal/lio/knowledge_delta/training/model/Llama3.23B/scaling-subsample_ratio0.01-knowledge-llama3b_cpt-lr5e-06-rt1-rr0.1-epochs1-blocksize2048-bs4-wd0.01-warmup0.05-Llama3.23B/checkpoint-5/optimizer.bin
+2025-01-23 00:32:28,516 - INFO - Optimizer state saved in /share/goyal/lio/knowledge_delta/training/model/Llama3.23B/scaling-subsample_ratio0.01-knowledge-llama3b_cpt-lr5e-06-rt1-rr0.1-epochs1-blocksize2048-bs4-wd0.01-warmup0.05-Llama3.23B/checkpoint-5/optimizer.bin
+
+
+Training completed. Do not forget to share your model on huggingface.co/models =)
+
+
+100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 5/5 [04:49<00:00, 57.81s/it]
+{'train_runtime': 290.4814, 'train_samples_per_second': 1.105, 'train_steps_per_second': 0.017, 'train_loss': 2.257753086090088, 'epoch': 0.98}
+Saving model checkpoint to /share/goyal/lio/knowledge_delta/training/model/Llama3.23B/scaling-subsample_ratio0.01-knowledge-llama3b_cpt-lr5e-06-rt1-rr0.1-epochs1-blocksize2048-bs4-wd0.01-warmup0.05-Llama3.23B
+Configuration saved in /share/goyal/lio/knowledge_delta/training/model/Llama3.23B/scaling-subsample_ratio0.01-knowledge-llama3b_cpt-lr5e-06-rt1-rr0.1-epochs1-blocksize2048-bs4-wd0.01-warmup0.05-Llama3.23B/config.json
+Configuration saved in /share/goyal/lio/knowledge_delta/training/model/Llama3.23B/scaling-subsample_ratio0.01-knowledge-llama3b_cpt-lr5e-06-rt1-rr0.1-epochs1-blocksize2048-bs4-wd0.01-warmup0.05-Llama3.23B/generation_config.json
+The model is bigger than the maximum size per checkpoint (5GB) and is going to be split in 3 checkpoint shards. You can find where each parameters has been saved in the index located at /share/goyal/lio/knowledge_delta/training/model/Llama3.23B/scaling-subsample_ratio0.01-knowledge-llama3b_cpt-lr5e-06-rt1-rr0.1-epochs1-blocksize2048-bs4-wd0.01-warmup0.05-Llama3.23B/model.safetensors.index.json.

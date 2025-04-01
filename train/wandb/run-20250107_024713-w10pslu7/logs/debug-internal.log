@@ -1,0 +1,8 @@
+{"time":"2025-01-07T02:47:13.897917663-05:00","level":"INFO","msg":"using version","core version":"0.18.6"}
+{"time":"2025-01-07T02:47:13.897952218-05:00","level":"INFO","msg":"created symlink","path":"/home/al2644/research/codebase/knowledge_update/training/wandb/run-20250107_024713-w10pslu7/logs/debug-core.log"}
+{"time":"2025-01-07T02:47:14.017680283-05:00","level":"INFO","msg":"created new stream","id":"w10pslu7"}
+{"time":"2025-01-07T02:47:14.017734688-05:00","level":"INFO","msg":"stream: started","id":"w10pslu7"}
+{"time":"2025-01-07T02:47:14.018370731-05:00","level":"INFO","msg":"sender: started","stream_id":"w10pslu7"}
+{"time":"2025-01-07T02:47:14.017772979-05:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"w10pslu7"}}
+{"time":"2025-01-07T02:47:14.018260484-05:00","level":"INFO","msg":"handler: started","stream_id":{"value":"w10pslu7"}}
+{"time":"2025-01-07T02:47:14.248366029-05:00","level":"INFO","msg":"Starting system monitor"}

@@ -1,0 +1,61 @@
+                                                                                                                                                                                               
+{'loss': 1.4258, 'grad_norm': 48.597190856933594, 'learning_rate': 5e-06, 'epoch': 0.03}
+{'loss': 1.3564, 'grad_norm': 43.94092559814453, 'learning_rate': 1e-05, 'epoch': 0.06}
+{'loss': 1.4133, 'grad_norm': 75.06013488769531, 'learning_rate': 9.975923633360985e-06, 'epoch': 0.09}
+{'loss': 1.3019, 'grad_norm': 9.906357765197754, 'learning_rate': 9.903926402016153e-06, 'epoch': 0.11}
+{'loss': 1.28, 'grad_norm': 6.527120590209961, 'learning_rate': 9.784701678661045e-06, 'epoch': 0.14}
+{'loss': 1.2316, 'grad_norm': 3.9540059566497803, 'learning_rate': 9.619397662556434e-06, 'epoch': 0.17}
+{'loss': 1.1814, 'grad_norm': 6.69950008392334, 'learning_rate': 9.409606321741776e-06, 'epoch': 0.2}
+{'loss': 1.2001, 'grad_norm': 4.101755619049072, 'learning_rate': 9.157348061512728e-06, 'epoch': 0.23}
+{'loss': 1.143, 'grad_norm': 2.897113561630249, 'learning_rate': 8.865052266813686e-06, 'epoch': 0.26}
+{'loss': 1.1089, 'grad_norm': 2.849313497543335, 'learning_rate': 8.535533905932739e-06, 'epoch': 0.29}
+{'loss': 1.1327, 'grad_norm': 2.5005581378936768, 'learning_rate': 8.171966420818227e-06, 'epoch': 0.31}
+{'loss': 1.1815, 'grad_norm': 2.648336172103882, 'learning_rate': 7.777851165098012e-06, 'epoch': 0.34}
+{'loss': 1.1507, 'grad_norm': 2.8739161491394043, 'learning_rate': 7.3569836841299905e-06, 'epoch': 0.37}
+{'loss': 1.0492, 'grad_norm': 2.4715888500213623, 'learning_rate': 6.913417161825449e-06, 'epoch': 0.4}
+{'loss': 1.1377, 'grad_norm': 2.5828371047973633, 'learning_rate': 6.451423386272312e-06, 'epoch': 0.43}
+{'loss': 1.116, 'grad_norm': 2.4317026138305664, 'learning_rate': 5.975451610080643e-06, 'epoch': 0.46}
+{'loss': 1.0876, 'grad_norm': 2.7425436973571777, 'learning_rate': 5.490085701647805e-06, 'epoch': 0.49}
+{'loss': 1.1055, 'grad_norm': 2.7388830184936523, 'learning_rate': 5e-06, 'epoch': 0.51}
+{'loss': 1.102, 'grad_norm': 2.6582672595977783, 'learning_rate': 4.509914298352197e-06, 'epoch': 0.54}
+{'loss': 1.0913, 'grad_norm': 2.54410457611084, 'learning_rate': 4.02454838991936e-06, 'epoch': 0.57}
+{'loss': 1.0415, 'grad_norm': 2.233083486557007, 'learning_rate': 3.5485766137276894e-06, 'epoch': 0.6}
+{'loss': 1.0688, 'grad_norm': 2.394726514816284, 'learning_rate': 3.0865828381745515e-06, 'epoch': 0.63}
+{'loss': 1.0829, 'grad_norm': 2.1819350719451904, 'learning_rate': 2.6430163158700116e-06, 'epoch': 0.66}
+{'loss': 1.0732, 'grad_norm': 2.4601433277130127, 'learning_rate': 2.2221488349019903e-06, 'epoch': 0.69}
+{'loss': 1.0711, 'grad_norm': 2.182220697402954, 'learning_rate': 1.8280335791817733e-06, 'epoch': 0.71}
+{'loss': 1.0622, 'grad_norm': 2.4046976566314697, 'learning_rate': 1.4644660940672628e-06, 'epoch': 0.74}
+{'loss': 1.0933, 'grad_norm': 2.32523512840271, 'learning_rate': 1.134947733186315e-06, 'epoch': 0.77}
+{'loss': 1.0846, 'grad_norm': 2.259722948074341, 'learning_rate': 8.426519384872733e-07, 'epoch': 0.8}
+{'loss': 1.0402, 'grad_norm': 2.313415050506592, 'learning_rate': 5.903936782582253e-07, 'epoch': 0.83}
+{'loss': 1.0345, 'grad_norm': 2.3264405727386475, 'learning_rate': 3.8060233744356634e-07, 'epoch': 0.86}
+{'loss': 1.0828, 'grad_norm': 2.102431058883667, 'learning_rate': 2.152983213389559e-07, 'epoch': 0.89}
+{'loss': 1.0457, 'grad_norm': 2.108717679977417, 'learning_rate': 9.607359798384785e-08, 'epoch': 0.91}
+{'loss': 1.0583, 'grad_norm': 2.227447748184204, 'learning_rate': 2.4076366639015914e-08, 'epoch': 0.94}
+{'loss': 1.0466, 'grad_norm': 2.128957986831665, 'learning_rate': 0.0, 'epoch': 0.97}
+Configuration saved in /share/goyal/lio/knowledge_delta/training/model/sft/instruct-sft-train-mistral-lr1e-05-rt1-rr10-epochs1-blocksize2048-bs128-wd0.01-warmup0.05-knowledge_alphamistral_cpt_prior_lr1e_05_rt2_rr0.01_epochs1_blocksize2048_bs16_wd0.01_warmup0.05_Mistral_7B_v0.3/checkpoint-34/config.json
+Configuration saved in /share/goyal/lio/knowledge_delta/training/model/sft/instruct-sft-train-mistral-lr1e-05-rt1-rr10-epochs1-blocksize2048-bs128-wd0.01-warmup0.05-knowledge_alphamistral_cpt_prior_lr1e_05_rt2_rr0.01_epochs1_blocksize2048_bs16_wd0.01_warmup0.05_Mistral_7B_v0.3/checkpoint-34/generation_config.json
+The model is bigger than the maximum size per checkpoint (5GB) and is going to be split in 6 checkpoint shards. You can find where each parameters has been saved in the index located at /share/goyal/lio/knowledge_delta/training/model/sft/instruct-sft-train-mistral-lr1e-05-rt1-rr10-epochs1-blocksize2048-bs128-wd0.01-warmup0.05-knowledge_alphamistral_cpt_prior_lr1e_05_rt2_rr0.01_epochs1_blocksize2048_bs16_wd0.01_warmup0.05_Mistral_7B_v0.3/checkpoint-34/model.safetensors.index.json.
+2025-02-14 17:41:48,901 - INFO - Saving model to /share/goyal/lio/knowledge_delta/training/model/sft/instruct-sft-train-mistral-lr1e-05-rt1-rr10-epochs1-blocksize2048-bs128-wd0.01-warmup0.05-knowledge_alphamistral_cpt_prior_lr1e_05_rt2_rr0.01_epochs1_blocksize2048_bs16_wd0.01_warmup0.05_Mistral_7B_v0.3/checkpoint-34/pytorch_model_fsdp.bin
+2025-02-14 17:42:29,416 - INFO - Model saved to /share/goyal/lio/knowledge_delta/training/model/sft/instruct-sft-train-mistral-lr1e-05-rt1-rr10-epochs1-blocksize2048-bs128-wd0.01-warmup0.05-knowledge_alphamistral_cpt_prior_lr1e_05_rt2_rr0.01_epochs1_blocksize2048_bs16_wd0.01_warmup0.05_Mistral_7B_v0.3/checkpoint-34/pytorch_model_fsdp.bin
+2025-02-14 17:42:56,366 - INFO - Saving Optimizer state to /share/goyal/lio/knowledge_delta/training/model/sft/instruct-sft-train-mistral-lr1e-05-rt1-rr10-epochs1-blocksize2048-bs128-wd0.01-warmup0.05-knowledge_alphamistral_cpt_prior_lr1e_05_rt2_rr0.01_epochs1_blocksize2048_bs16_wd0.01_warmup0.05_Mistral_7B_v0.3/checkpoint-34/optimizer.bin
+2025-02-14 17:44:15,270 - INFO - Optimizer state saved in /share/goyal/lio/knowledge_delta/training/model/sft/instruct-sft-train-mistral-lr1e-05-rt1-rr10-epochs1-blocksize2048-bs128-wd0.01-warmup0.05-knowledge_alphamistral_cpt_prior_lr1e_05_rt2_rr0.01_epochs1_blocksize2048_bs16_wd0.01_warmup0.05_Mistral_7B_v0.3/checkpoint-34/optimizer.bin
+Saving model checkpoint to /share/goyal/lio/knowledge_delta/training/model/sft/instruct-sft-train-mistral-lr1e-05-rt1-rr10-epochs1-blocksize2048-bs128-wd0.01-warmup0.05-knowledge_alphamistral_cpt_prior_lr1e_05_rt2_rr0.01_epochs1_blocksize2048_bs16_wd0.01_warmup0.05_Mistral_7B_v0.3/checkpoint-34
+Configuration saved in /share/goyal/lio/knowledge_delta/training/model/sft/instruct-sft-train-mistral-lr1e-05-rt1-rr10-epochs1-blocksize2048-bs128-wd0.01-warmup0.05-knowledge_alphamistral_cpt_prior_lr1e_05_rt2_rr0.01_epochs1_blocksize2048_bs16_wd0.01_warmup0.05_Mistral_7B_v0.3/checkpoint-34/config.json
+Configuration saved in /share/goyal/lio/knowledge_delta/training/model/sft/instruct-sft-train-mistral-lr1e-05-rt1-rr10-epochs1-blocksize2048-bs128-wd0.01-warmup0.05-knowledge_alphamistral_cpt_prior_lr1e_05_rt2_rr0.01_epochs1_blocksize2048_bs16_wd0.01_warmup0.05_Mistral_7B_v0.3/checkpoint-34/generation_config.json
+The model is bigger than the maximum size per checkpoint (5GB) and is going to be split in 6 checkpoint shards. You can find where each parameters has been saved in the index located at /share/goyal/lio/knowledge_delta/training/model/sft/instruct-sft-train-mistral-lr1e-05-rt1-rr10-epochs1-blocksize2048-bs128-wd0.01-warmup0.05-knowledge_alphamistral_cpt_prior_lr1e_05_rt2_rr0.01_epochs1_blocksize2048_bs16_wd0.01_warmup0.05_Mistral_7B_v0.3/checkpoint-34/model.safetensors.index.json.
+2025-02-14 17:46:03,379 - INFO - Saving model to /share/goyal/lio/knowledge_delta/training/model/sft/instruct-sft-train-mistral-lr1e-05-rt1-rr10-epochs1-blocksize2048-bs128-wd0.01-warmup0.05-knowledge_alphamistral_cpt_prior_lr1e_05_rt2_rr0.01_epochs1_blocksize2048_bs16_wd0.01_warmup0.05_Mistral_7B_v0.3/checkpoint-34/pytorch_model_fsdp.bin
+2025-02-14 17:46:40,020 - INFO - Model saved to /share/goyal/lio/knowledge_delta/training/model/sft/instruct-sft-train-mistral-lr1e-05-rt1-rr10-epochs1-blocksize2048-bs128-wd0.01-warmup0.05-knowledge_alphamistral_cpt_prior_lr1e_05_rt2_rr0.01_epochs1_blocksize2048_bs16_wd0.01_warmup0.05_Mistral_7B_v0.3/checkpoint-34/pytorch_model_fsdp.bin
+2025-02-14 17:47:05,782 - INFO - Saving Optimizer state to /share/goyal/lio/knowledge_delta/training/model/sft/instruct-sft-train-mistral-lr1e-05-rt1-rr10-epochs1-blocksize2048-bs128-wd0.01-warmup0.05-knowledge_alphamistral_cpt_prior_lr1e_05_rt2_rr0.01_epochs1_blocksize2048_bs16_wd0.01_warmup0.05_Mistral_7B_v0.3/checkpoint-34/optimizer.bin
+2025-02-14 17:48:23,243 - INFO - Optimizer state saved in /share/goyal/lio/knowledge_delta/training/model/sft/instruct-sft-train-mistral-lr1e-05-rt1-rr10-epochs1-blocksize2048-bs128-wd0.01-warmup0.05-knowledge_alphamistral_cpt_prior_lr1e_05_rt2_rr0.01_epochs1_blocksize2048_bs16_wd0.01_warmup0.05_Mistral_7B_v0.3/checkpoint-34/optimizer.bin
+
+
+Training completed. Do not forget to share your model on huggingface.co/models =)
+
+
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 34/34 [24:20<00:00, 42.95s/it]
+{'train_runtime': 1463.6046, 'train_samples_per_second': 3.059, 'train_steps_per_second': 0.023, 'train_loss': 1.1377219172085034, 'epoch': 0.97}
+Saving model checkpoint to /share/goyal/lio/knowledge_delta/training/model/sft/instruct-sft-train-mistral-lr1e-05-rt1-rr10-epochs1-blocksize2048-bs128-wd0.01-warmup0.05-knowledge_alphamistral_cpt_prior_lr1e_05_rt2_rr0.01_epochs1_blocksize2048_bs16_wd0.01_warmup0.05_Mistral_7B_v0.3
+Configuration saved in /share/goyal/lio/knowledge_delta/training/model/sft/instruct-sft-train-mistral-lr1e-05-rt1-rr10-epochs1-blocksize2048-bs128-wd0.01-warmup0.05-knowledge_alphamistral_cpt_prior_lr1e_05_rt2_rr0.01_epochs1_blocksize2048_bs16_wd0.01_warmup0.05_Mistral_7B_v0.3/config.json
+Configuration saved in /share/goyal/lio/knowledge_delta/training/model/sft/instruct-sft-train-mistral-lr1e-05-rt1-rr10-epochs1-blocksize2048-bs128-wd0.01-warmup0.05-knowledge_alphamistral_cpt_prior_lr1e_05_rt2_rr0.01_epochs1_blocksize2048_bs16_wd0.01_warmup0.05_Mistral_7B_v0.3/generation_config.json
+The model is bigger than the maximum size per checkpoint (5GB) and is going to be split in 6 checkpoint shards. You can find where each parameters has been saved in the index located at /share/goyal/lio/knowledge_delta/training/model/sft/instruct-sft-train-mistral-lr1e-05-rt1-rr10-epochs1-blocksize2048-bs128-wd0.01-warmup0.05-knowledge_alphamistral_cpt_prior_lr1e_05_rt2_rr0.01_epochs1_blocksize2048_bs16_wd0.01_warmup0.05_Mistral_7B_v0.3/model.safetensors.index.json.

@@ -1,0 +1,19 @@
+{"time":"2024-11-17T21:19:16.708027413-05:00","level":"INFO","msg":"using version","core version":"0.18.6"}
+{"time":"2024-11-17T21:19:16.708052197-05:00","level":"INFO","msg":"created symlink","path":"/home/al2644/research/codebase/knowledge_update/continued_pretraining/wandb/run-20241117_211916-zwtzuaje/logs/debug-core.log"}
+{"time":"2024-11-17T21:19:16.827594133-05:00","level":"INFO","msg":"created new stream","id":"zwtzuaje"}
+{"time":"2024-11-17T21:19:16.827623254-05:00","level":"INFO","msg":"stream: started","id":"zwtzuaje"}
+{"time":"2024-11-17T21:19:16.827728178-05:00","level":"INFO","msg":"sender: started","stream_id":"zwtzuaje"}
+{"time":"2024-11-17T21:19:16.82766337-05:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"zwtzuaje"}}
+{"time":"2024-11-17T21:19:16.827678662-05:00","level":"INFO","msg":"handler: started","stream_id":{"value":"zwtzuaje"}}
+{"time":"2024-11-17T21:19:17.067972307-05:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-17T21:26:12.604760734-05:00","level":"INFO","msg":"stream: closing","id":"zwtzuaje"}
+{"time":"2024-11-17T21:26:12.605107795-05:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-17T21:26:12.606844206-05:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-17T21:26:12.703630243-05:00","level":"WARN","msg":"No job ingredients found, not creating job artifact"}
+{"time":"2024-11-17T21:26:12.703662716-05:00","level":"WARN","msg":"No source type found, not creating job artifact"}
+{"time":"2024-11-17T21:26:12.703671981-05:00","level":"INFO","msg":"sender: sendDefer: no job artifact to save"}
+{"time":"2024-11-17T21:26:12.976419492-05:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-17T21:26:13.169213558-05:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"zwtzuaje"}}
+{"time":"2024-11-17T21:26:13.169299803-05:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"zwtzuaje"}}
+{"time":"2024-11-17T21:26:13.16933748-05:00","level":"INFO","msg":"sender: closed","stream_id":"zwtzuaje"}
+{"time":"2024-11-17T21:26:13.171351936-05:00","level":"INFO","msg":"stream: closed","id":"zwtzuaje"}

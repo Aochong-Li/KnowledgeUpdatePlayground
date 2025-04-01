@@ -1,0 +1,8 @@
+{"time":"2024-11-19T01:31:03.27441893-05:00","level":"INFO","msg":"using version","core version":"0.18.6"}
+{"time":"2024-11-19T01:31:03.274469789-05:00","level":"INFO","msg":"created symlink","path":"/home/al2644/research/codebase/knowledge_update/continued_pretraining/wandb/run-20241119_013103-gapv4huc/logs/debug-core.log"}
+{"time":"2024-11-19T01:31:03.3982456-05:00","level":"INFO","msg":"created new stream","id":"gapv4huc"}
+{"time":"2024-11-19T01:31:03.398311782-05:00","level":"INFO","msg":"stream: started","id":"gapv4huc"}
+{"time":"2024-11-19T01:31:03.398756299-05:00","level":"INFO","msg":"sender: started","stream_id":"gapv4huc"}
+{"time":"2024-11-19T01:31:03.398613662-05:00","level":"INFO","msg":"handler: started","stream_id":{"value":"gapv4huc"}}
+{"time":"2024-11-19T01:31:03.398475321-05:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"gapv4huc"}}
+{"time":"2024-11-19T01:31:03.648196138-05:00","level":"INFO","msg":"Starting system monitor"}

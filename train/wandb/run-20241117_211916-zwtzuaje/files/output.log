@@ -1,0 +1,213 @@
+                                                                                            
+{'loss': 1.586, 'grad_norm': inf, 'learning_rate': 2.617801047120419e-08, 'epoch': 0.0}
+{'loss': 1.6484, 'grad_norm': 83.05889892578125, 'learning_rate': 5.235602094240838e-08, 'epoch': 0.0}
+{'loss': 1.6962, 'grad_norm': 116.93142700195312, 'learning_rate': 7.853403141361257e-08, 'epoch': 0.0}
+{'loss': 1.7766, 'grad_norm': 94.91770935058594, 'learning_rate': 1.0471204188481677e-07, 'epoch': 0.0}
+{'loss': 1.6394, 'grad_norm': 47932.12109375, 'learning_rate': 1.3089005235602095e-07, 'epoch': 0.0}
+{'loss': 1.8071, 'grad_norm': 66.93592071533203, 'learning_rate': 1.5706806282722514e-07, 'epoch': 0.0}
+{'loss': 1.605, 'grad_norm': 72.92281341552734, 'learning_rate': 1.8324607329842932e-07, 'epoch': 0.0}
+{'loss': 1.6158, 'grad_norm': 45.058349609375, 'learning_rate': 2.0942408376963353e-07, 'epoch': 0.0}
+{'loss': 1.6798, 'grad_norm': 33.624019622802734, 'learning_rate': 2.3560209424083772e-07, 'epoch': 0.0}
+{'loss': 1.628, 'grad_norm': 34.51144790649414, 'learning_rate': 2.617801047120419e-07, 'epoch': 0.0}
+{'loss': 1.622, 'grad_norm': 15.64831256866455, 'learning_rate': 2.879581151832461e-07, 'epoch': 0.0}
+{'loss': 1.5915, 'grad_norm': 7048.39599609375, 'learning_rate': 3.1413612565445027e-07, 'epoch': 0.0}
+{'loss': 1.4688, 'grad_norm': 2924.482666015625, 'learning_rate': 3.403141361256545e-07, 'epoch': 0.0}
+{'loss': 1.5396, 'grad_norm': 3618.1923828125, 'learning_rate': 3.6649214659685864e-07, 'epoch': 0.0}
+{'loss': 1.5726, 'grad_norm': 3693.545654296875, 'learning_rate': 3.926701570680629e-07, 'epoch': 0.0}
+{'loss': 1.4543, 'grad_norm': 9.059172630310059, 'learning_rate': 4.1884816753926706e-07, 'epoch': 0.0}
+{'loss': 1.3357, 'grad_norm': 14.558363914489746, 'learning_rate': 4.4502617801047125e-07, 'epoch': 0.0}
+{'loss': 1.4905, 'grad_norm': 10.953083038330078, 'learning_rate': 4.7120418848167543e-07, 'epoch': 0.0}
+{'loss': 1.4818, 'grad_norm': 7.644111633300781, 'learning_rate': 4.973821989528796e-07, 'epoch': 0.0}
+{'loss': 1.4647, 'grad_norm': 107.43059539794922, 'learning_rate': 5.235602094240838e-07, 'epoch': 0.01}
+{'loss': 1.4747, 'grad_norm': 4.924972057342529, 'learning_rate': 5.49738219895288e-07, 'epoch': 0.01}
+{'loss': 1.5061, 'grad_norm': 5.038765907287598, 'learning_rate': 5.759162303664922e-07, 'epoch': 0.01}
+{'loss': 1.5269, 'grad_norm': 40.35546875, 'learning_rate': 6.020942408376964e-07, 'epoch': 0.01}
+{'loss': 1.3671, 'grad_norm': 4.171050071716309, 'learning_rate': 6.282722513089005e-07, 'epoch': 0.01}
+{'loss': 1.3812, 'grad_norm': 23.394474029541016, 'learning_rate': 6.544502617801048e-07, 'epoch': 0.01}
+{'loss': 1.307, 'grad_norm': 7.959768295288086, 'learning_rate': 6.80628272251309e-07, 'epoch': 0.01}
+{'loss': 1.368, 'grad_norm': 5.7002739906311035, 'learning_rate': 7.068062827225131e-07, 'epoch': 0.01}
+{'loss': 1.3804, 'grad_norm': 5.046189785003662, 'learning_rate': 7.329842931937173e-07, 'epoch': 0.01}
+{'loss': 1.4016, 'grad_norm': 7.47269344329834, 'learning_rate': 7.591623036649215e-07, 'epoch': 0.01}
+{'loss': 1.3495, 'grad_norm': 12.582074165344238, 'learning_rate': 7.853403141361258e-07, 'epoch': 0.01}
+{'loss': 1.238, 'grad_norm': 3.8373966217041016, 'learning_rate': 8.115183246073299e-07, 'epoch': 0.01}
+{'loss': 1.2426, 'grad_norm': 3.364732265472412, 'learning_rate': 8.376963350785341e-07, 'epoch': 0.01}
+{'loss': 1.4434, 'grad_norm': 2.879277467727661, 'learning_rate': 8.638743455497383e-07, 'epoch': 0.01}
+{'loss': 1.2603, 'grad_norm': 4.411767959594727, 'learning_rate': 8.900523560209425e-07, 'epoch': 0.01}
+{'loss': 1.2935, 'grad_norm': 2.5549635887145996, 'learning_rate': 9.162303664921466e-07, 'epoch': 0.01}
+{'loss': 1.3333, 'grad_norm': 3.095292329788208, 'learning_rate': 9.424083769633509e-07, 'epoch': 0.01}
+{'loss': 1.2552, 'grad_norm': 4.562486171722412, 'learning_rate': 9.685863874345552e-07, 'epoch': 0.01}
+{'loss': 1.3, 'grad_norm': 2.586766242980957, 'learning_rate': 9.947643979057591e-07, 'epoch': 0.01}
+{'loss': 1.3473, 'grad_norm': 3.404590368270874, 'learning_rate': 1.0209424083769635e-06, 'epoch': 0.01}
+{'loss': 1.2806, 'grad_norm': 2.058598756790161, 'learning_rate': 1.0471204188481676e-06, 'epoch': 0.01}
+{'loss': 1.3717, 'grad_norm': 2.6100282669067383, 'learning_rate': 1.0732984293193717e-06, 'epoch': 0.01}
+{'loss': 1.2967, 'grad_norm': 4.079329967498779, 'learning_rate': 1.099476439790576e-06, 'epoch': 0.01}
+{'loss': 1.3622, 'grad_norm': 3.7774229049682617, 'learning_rate': 1.1256544502617802e-06, 'epoch': 0.01}
+{'loss': 1.2731, 'grad_norm': 2.7463502883911133, 'learning_rate': 1.1518324607329843e-06, 'epoch': 0.01}
+{'loss': 1.3235, 'grad_norm': 2.2555646896362305, 'learning_rate': 1.1780104712041885e-06, 'epoch': 0.01}
+{'loss': 1.2619, 'grad_norm': 2.3222031593322754, 'learning_rate': 1.2041884816753928e-06, 'epoch': 0.01}
+{'loss': 1.3178, 'grad_norm': 1.965813398361206, 'learning_rate': 1.230366492146597e-06, 'epoch': 0.01}
+{'loss': 1.2981, 'grad_norm': 2.016958236694336, 'learning_rate': 1.256544502617801e-06, 'epoch': 0.01}
+{'loss': 1.3089, 'grad_norm': 4.0207014083862305, 'learning_rate': 1.2827225130890052e-06, 'epoch': 0.01}
+{'loss': 1.283, 'grad_norm': 5.724388599395752, 'learning_rate': 1.3089005235602096e-06, 'epoch': 0.01}
+{'loss': 1.2439, 'grad_norm': 4.279409408569336, 'learning_rate': 1.3350785340314137e-06, 'epoch': 0.01}
+{'loss': 1.3396, 'grad_norm': 2.12393856048584, 'learning_rate': 1.361256544502618e-06, 'epoch': 0.01}
+{'loss': 1.19, 'grad_norm': 2.1349377632141113, 'learning_rate': 1.3874345549738222e-06, 'epoch': 0.01}
+  File "/home/al2644/research/codebase/knowledge_update/continued_pretraining/train.py", line 49, in <module>
+    train()
+  File "/home/al2644/research/codebase/knowledge_update/continued_pretraining/train.py", line 43, in train
+    trainer.train()
+  File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/transformers/trainer.py", line 1938, in train
+    return inner_training_loop(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/transformers/trainer.py", line 2279, in _inner_training_loop
+    tr_loss_step = self.training_step(model, inputs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/transformers/trainer.py", line 3318, in training_step
+    loss = self.compute_loss(model, inputs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/transformers/trainer.py", line 3363, in compute_loss
+    outputs = model(**inputs)
+              ^^^^^^^^^^^^^^^
+  File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1553, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1562, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/accelerate/utils/operations.py", line 823, in forward
+    return model_forward(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/accelerate/utils/operations.py", line 811, in __call__
+    return convert_to_fp32(self.model_forward(*args, **kwargs))
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/torch/amp/autocast_mode.py", line 43, in decorate_autocast
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/torch/distributed/fsdp/fully_sharded_data_parallel.py", line 863, in forward
+    output = self._fsdp_wrapped_module(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1553, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1562, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/accelerate/utils/operations.py", line 823, in forward
+    return model_forward(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/accelerate/utils/operations.py", line 811, in __call__
+    return convert_to_fp32(self.model_forward(*args, **kwargs))
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/torch/amp/autocast_mode.py", line 43, in decorate_autocast
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/transformers/models/llama/modeling_llama.py", line 1189, in forward
+    outputs = self.model(
+              ^^^^^^^^^^^
+  File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1553, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1562, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/transformers/models/llama/modeling_llama.py", line 1001, in forward
+    layer_outputs = decoder_layer(
+                    ^^^^^^^^^^^^^^
+  File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1553, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1562, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/torch/distributed/fsdp/fully_sharded_data_parallel.py", line 849, in forward
+    args, kwargs = _pre_forward(
+                   ^^^^^^^^^^^^^
+  File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/torch/distributed/fsdp/_runtime_utils.py", line 381, in _pre_forward
+    unshard_fn(state, handle)
+  File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/torch/distributed/fsdp/_runtime_utils.py", line 416, in _pre_forward_unshard
+    _unshard(state, handle, state._unshard_stream, state._pre_unshard_stream)
+  File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/torch/distributed/fsdp/_runtime_utils.py", line 298, in _unshard
+    event.synchronize()
+  File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/torch/cuda/streams.py", line 225, in synchronize
+    super().synchronize()
+KeyboardInterrupt
+[rank0]: Traceback (most recent call last):
+[rank0]:   File "/home/al2644/research/codebase/knowledge_update/continued_pretraining/train.py", line 49, in <module>
+[rank0]:     train()
+[rank0]:   File "/home/al2644/research/codebase/knowledge_update/continued_pretraining/train.py", line 43, in train
+[rank0]:     trainer.train()
+[rank0]:   File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/transformers/trainer.py", line 1938, in train
+[rank0]:     return inner_training_loop(
+[rank0]:            ^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/transformers/trainer.py", line 2279, in _inner_training_loop
+[rank0]:     tr_loss_step = self.training_step(model, inputs)
+[rank0]:                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/transformers/trainer.py", line 3318, in training_step
+[rank0]:     loss = self.compute_loss(model, inputs)
+[rank0]:            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/transformers/trainer.py", line 3363, in compute_loss
+[rank0]:     outputs = model(**inputs)
+[rank0]:               ^^^^^^^^^^^^^^^
+[rank0]:   File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1553, in _wrapped_call_impl
+[rank0]:     return self._call_impl(*args, **kwargs)
+[rank0]:            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1562, in _call_impl
+[rank0]:     return forward_call(*args, **kwargs)
+[rank0]:            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/accelerate/utils/operations.py", line 823, in forward
+[rank0]:     return model_forward(*args, **kwargs)
+[rank0]:            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/accelerate/utils/operations.py", line 811, in __call__
+[rank0]:     return convert_to_fp32(self.model_forward(*args, **kwargs))
+[rank0]:                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/torch/amp/autocast_mode.py", line 43, in decorate_autocast
+[rank0]:     return func(*args, **kwargs)
+[rank0]:            ^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/torch/distributed/fsdp/fully_sharded_data_parallel.py", line 863, in forward
+[rank0]:     output = self._fsdp_wrapped_module(*args, **kwargs)
+[rank0]:              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1553, in _wrapped_call_impl
+[rank0]:     return self._call_impl(*args, **kwargs)
+[rank0]:            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1562, in _call_impl
+[rank0]:     return forward_call(*args, **kwargs)
+[rank0]:            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/accelerate/utils/operations.py", line 823, in forward
+[rank0]:     return model_forward(*args, **kwargs)
+[rank0]:            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/accelerate/utils/operations.py", line 811, in __call__
+[rank0]:     return convert_to_fp32(self.model_forward(*args, **kwargs))
+[rank0]:                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/torch/amp/autocast_mode.py", line 43, in decorate_autocast
+[rank0]:     return func(*args, **kwargs)
+[rank0]:            ^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/transformers/models/llama/modeling_llama.py", line 1189, in forward
+[rank0]:     outputs = self.model(
+[rank0]:               ^^^^^^^^^^^
+[rank0]:   File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1553, in _wrapped_call_impl
+[rank0]:     return self._call_impl(*args, **kwargs)
+[rank0]:            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1562, in _call_impl
+[rank0]:     return forward_call(*args, **kwargs)
+[rank0]:            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/transformers/models/llama/modeling_llama.py", line 1001, in forward
+[rank0]:     layer_outputs = decoder_layer(
+[rank0]:                     ^^^^^^^^^^^^^^
+[rank0]:   File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1553, in _wrapped_call_impl
+[rank0]:     return self._call_impl(*args, **kwargs)
+[rank0]:            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1562, in _call_impl
+[rank0]:     return forward_call(*args, **kwargs)
+[rank0]:            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/torch/distributed/fsdp/fully_sharded_data_parallel.py", line 849, in forward
+[rank0]:     args, kwargs = _pre_forward(
+[rank0]:                    ^^^^^^^^^^^^^
+[rank0]:   File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/torch/distributed/fsdp/_runtime_utils.py", line 381, in _pre_forward
+[rank0]:     unshard_fn(state, handle)
+[rank0]:   File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/torch/distributed/fsdp/_runtime_utils.py", line 416, in _pre_forward_unshard
+[rank0]:     _unshard(state, handle, state._unshard_stream, state._pre_unshard_stream)
+[rank0]:   File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/torch/distributed/fsdp/_runtime_utils.py", line 298, in _unshard
+[rank0]:     event.synchronize()
+[rank0]:   File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/torch/cuda/streams.py", line 225, in synchronize
+[rank0]:     super().synchronize()
+[rank0]: KeyboardInterrupt

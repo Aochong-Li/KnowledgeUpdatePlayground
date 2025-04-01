@@ -1,0 +1,21 @@
+  0%|                                                                                                                                                                 | 0/1086 [00:00<?, ?it/s]
+> /home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/transformers/trainer.py(3355)compute_loss()
+-> """
+> /home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/transformers/trainer.py(3360)compute_loss()
+-> if self.label_smoother is not None and "labels" in inputs:
+> /home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/transformers/trainer.py(3363)compute_loss()
+-> labels = None
+> /home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/transformers/trainer.py(3364)compute_loss()
+-> outputs = model(**inputs)
+--Call--
+> /home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/torch/nn/modules/module.py(1549)_wrapped_call_impl()
+-> def _wrapped_call_impl(self, *args, **kwargs):
+> /home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/torch/nn/modules/module.py(1550)_wrapped_call_impl()
+-> if self._compiled_call_impl is not None:
+> /home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/torch/nn/modules/module.py(1553)_wrapped_call_impl()
+-> return self._call_impl(*args, **kwargs)
+*** NameError: name 'ts' is not defined
+*** NameError: name 'outputt' is not defined
+*** NameError: name 'otuts' is not defined
+*** NameError: name 'tusex' is not defined
+--KeyboardInterrupt--

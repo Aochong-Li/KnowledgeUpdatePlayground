@@ -1,0 +1,11 @@
+{"time":"2025-01-07T03:01:12.429785033-05:00","level":"INFO","msg":"using version","core version":"0.18.6"}
+{"time":"2025-01-07T03:01:12.429808881-05:00","level":"INFO","msg":"created symlink","path":"/home/al2644/research/codebase/knowledge_update/training/wandb/run-20250107_030112-ilrpttbp/logs/debug-core.log"}
+{"time":"2025-01-07T03:01:12.550024679-05:00","level":"INFO","msg":"created new stream","id":"ilrpttbp"}
+{"time":"2025-01-07T03:01:12.550087902-05:00","level":"INFO","msg":"stream: started","id":"ilrpttbp"}
+{"time":"2025-01-07T03:01:12.55013822-05:00","level":"INFO","msg":"sender: started","stream_id":"ilrpttbp"}
+{"time":"2025-01-07T03:01:12.550124497-05:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"ilrpttbp"}}
+{"time":"2025-01-07T03:01:12.550141212-05:00","level":"INFO","msg":"handler: started","stream_id":{"value":"ilrpttbp"}}
+{"time":"2025-01-07T03:01:12.852738298-05:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-07T03:31:00.233591496-05:00","level":"INFO","msg":"stream: closing","id":"ilrpttbp"}
+{"time":"2025-01-07T03:31:00.233684634-05:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-07T03:31:00.234928798-05:00","level":"INFO","msg":"Stopped system monitor"}

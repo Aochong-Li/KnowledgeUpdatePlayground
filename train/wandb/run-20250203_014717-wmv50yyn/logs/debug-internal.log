@@ -1,0 +1,19 @@
+{"time":"2025-02-03T01:47:17.032917767-05:00","level":"INFO","msg":"using version","core version":"0.18.6"}
+{"time":"2025-02-03T01:47:17.032943188-05:00","level":"INFO","msg":"created symlink","path":"/home/al2644/research/codebase/knowledge_update/training/wandb/run-20250203_014717-wmv50yyn/logs/debug-core.log"}
+{"time":"2025-02-03T01:47:17.282293426-05:00","level":"INFO","msg":"created new stream","id":"wmv50yyn"}
+{"time":"2025-02-03T01:47:17.282371588-05:00","level":"INFO","msg":"stream: started","id":"wmv50yyn"}
+{"time":"2025-02-03T01:47:17.282597959-05:00","level":"INFO","msg":"handler: started","stream_id":{"value":"wmv50yyn"}}
+{"time":"2025-02-03T01:47:17.283584098-05:00","level":"INFO","msg":"sender: started","stream_id":"wmv50yyn"}
+{"time":"2025-02-03T01:47:17.283587706-05:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"wmv50yyn"}}
+{"time":"2025-02-03T01:47:17.514881259-05:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-03T01:47:29.550520947-05:00","level":"INFO","msg":"stream: closing","id":"wmv50yyn"}
+{"time":"2025-02-03T01:47:29.551570915-05:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-03T01:47:29.553717702-05:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-03T01:47:29.642476585-05:00","level":"WARN","msg":"No job ingredients found, not creating job artifact"}
+{"time":"2025-02-03T01:47:29.642501817-05:00","level":"WARN","msg":"No source type found, not creating job artifact"}
+{"time":"2025-02-03T01:47:29.642507194-05:00","level":"INFO","msg":"sender: sendDefer: no job artifact to save"}
+{"time":"2025-02-03T01:47:29.899802681-05:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-02-03T01:47:30.075441325-05:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"wmv50yyn"}}
+{"time":"2025-02-03T01:47:30.075485839-05:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"wmv50yyn"}}
+{"time":"2025-02-03T01:47:30.075522465-05:00","level":"INFO","msg":"sender: closed","stream_id":"wmv50yyn"}
+{"time":"2025-02-03T01:47:30.077223561-05:00","level":"INFO","msg":"stream: closed","id":"wmv50yyn"}

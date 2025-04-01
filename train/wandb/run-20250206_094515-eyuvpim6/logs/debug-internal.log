@@ -1,0 +1,19 @@
+{"time":"2025-02-06T09:45:15.379591078-05:00","level":"INFO","msg":"using version","core version":"0.18.6"}
+{"time":"2025-02-06T09:45:15.379615674-05:00","level":"INFO","msg":"created symlink","path":"/home/al2644/research/codebase/knowledge_update/training/wandb/run-20250206_094515-eyuvpim6/logs/debug-core.log"}
+{"time":"2025-02-06T09:45:15.499364788-05:00","level":"INFO","msg":"created new stream","id":"eyuvpim6"}
+{"time":"2025-02-06T09:45:15.499429654-05:00","level":"INFO","msg":"stream: started","id":"eyuvpim6"}
+{"time":"2025-02-06T09:45:15.499491024-05:00","level":"INFO","msg":"sender: started","stream_id":"eyuvpim6"}
+{"time":"2025-02-06T09:45:15.49946515-05:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"eyuvpim6"}}
+{"time":"2025-02-06T09:45:15.499499349-05:00","level":"INFO","msg":"handler: started","stream_id":{"value":"eyuvpim6"}}
+{"time":"2025-02-06T09:45:15.68412363-05:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-06T12:05:23.488685903-05:00","level":"INFO","msg":"stream: closing","id":"eyuvpim6"}
+{"time":"2025-02-06T12:05:23.48886121-05:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-06T12:05:23.490174183-05:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-06T12:05:24.094035153-05:00","level":"WARN","msg":"No job ingredients found, not creating job artifact"}
+{"time":"2025-02-06T12:05:24.094066247-05:00","level":"WARN","msg":"No source type found, not creating job artifact"}
+{"time":"2025-02-06T12:05:24.09407167-05:00","level":"INFO","msg":"sender: sendDefer: no job artifact to save"}
+{"time":"2025-02-06T12:05:24.276607871-05:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-02-06T12:05:24.457853287-05:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"eyuvpim6"}}
+{"time":"2025-02-06T12:05:24.457924881-05:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"eyuvpim6"}}
+{"time":"2025-02-06T12:05:24.457960875-05:00","level":"INFO","msg":"sender: closed","stream_id":"eyuvpim6"}
+{"time":"2025-02-06T12:05:24.459609493-05:00","level":"INFO","msg":"stream: closed","id":"eyuvpim6"}

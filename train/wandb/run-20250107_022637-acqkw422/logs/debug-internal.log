@@ -1,0 +1,19 @@
+{"time":"2025-01-07T02:26:37.938824065-05:00","level":"INFO","msg":"using version","core version":"0.18.6"}
+{"time":"2025-01-07T02:26:37.938849352-05:00","level":"INFO","msg":"created symlink","path":"/home/al2644/research/codebase/knowledge_update/training/wandb/run-20250107_022637-acqkw422/logs/debug-core.log"}
+{"time":"2025-01-07T02:26:38.058854861-05:00","level":"INFO","msg":"created new stream","id":"acqkw422"}
+{"time":"2025-01-07T02:26:38.058927869-05:00","level":"INFO","msg":"stream: started","id":"acqkw422"}
+{"time":"2025-01-07T02:26:38.059090648-05:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"acqkw422"}}
+{"time":"2025-01-07T02:26:38.059206586-05:00","level":"INFO","msg":"handler: started","stream_id":{"value":"acqkw422"}}
+{"time":"2025-01-07T02:26:38.059343886-05:00","level":"INFO","msg":"sender: started","stream_id":"acqkw422"}
+{"time":"2025-01-07T02:26:38.228861147-05:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-07T02:26:38.669925781-05:00","level":"INFO","msg":"stream: closing","id":"acqkw422"}
+{"time":"2025-01-07T02:26:38.669983701-05:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-07T02:26:38.670639023-05:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-07T02:26:38.963652664-05:00","level":"WARN","msg":"No job ingredients found, not creating job artifact"}
+{"time":"2025-01-07T02:26:38.963673849-05:00","level":"WARN","msg":"No source type found, not creating job artifact"}
+{"time":"2025-01-07T02:26:38.963679981-05:00","level":"INFO","msg":"sender: sendDefer: no job artifact to save"}
+{"time":"2025-01-07T02:26:39.227273294-05:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-07T02:26:39.362269245-05:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"acqkw422"}}
+{"time":"2025-01-07T02:26:39.362328318-05:00","level":"INFO","msg":"sender: closed","stream_id":"acqkw422"}
+{"time":"2025-01-07T02:26:39.362322779-05:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"acqkw422"}}
+{"time":"2025-01-07T02:26:39.363989362-05:00","level":"INFO","msg":"stream: closed","id":"acqkw422"}

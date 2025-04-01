@@ -1,0 +1,19 @@
+{"time":"2024-11-17T20:56:15.653491105-05:00","level":"INFO","msg":"using version","core version":"0.18.6"}
+{"time":"2024-11-17T20:56:15.653517721-05:00","level":"INFO","msg":"created symlink","path":"/home/al2644/research/codebase/knowledge_update/continued_pretraining/wandb/run-20241117_205615-sc0xjh2b/logs/debug-core.log"}
+{"time":"2024-11-17T20:56:15.777697339-05:00","level":"INFO","msg":"created new stream","id":"sc0xjh2b"}
+{"time":"2024-11-17T20:56:15.777747799-05:00","level":"INFO","msg":"stream: started","id":"sc0xjh2b"}
+{"time":"2024-11-17T20:56:15.777897233-05:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"sc0xjh2b"}}
+{"time":"2024-11-17T20:56:15.77800698-05:00","level":"INFO","msg":"handler: started","stream_id":{"value":"sc0xjh2b"}}
+{"time":"2024-11-17T20:56:15.778110526-05:00","level":"INFO","msg":"sender: started","stream_id":"sc0xjh2b"}
+{"time":"2024-11-17T20:56:15.966864871-05:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-17T21:07:08.058190602-05:00","level":"INFO","msg":"stream: closing","id":"sc0xjh2b"}
+{"time":"2024-11-17T21:07:08.058352379-05:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-17T21:07:08.059632216-05:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-17T21:07:08.135144607-05:00","level":"WARN","msg":"No job ingredients found, not creating job artifact"}
+{"time":"2024-11-17T21:07:08.135164658-05:00","level":"WARN","msg":"No source type found, not creating job artifact"}
+{"time":"2024-11-17T21:07:08.135172451-05:00","level":"INFO","msg":"sender: sendDefer: no job artifact to save"}
+{"time":"2024-11-17T21:07:08.408956602-05:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-17T21:07:08.51937646-05:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"sc0xjh2b"}}
+{"time":"2024-11-17T21:07:08.51943868-05:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"sc0xjh2b"}}
+{"time":"2024-11-17T21:07:08.5195111-05:00","level":"INFO","msg":"sender: closed","stream_id":"sc0xjh2b"}
+{"time":"2024-11-17T21:07:08.52117473-05:00","level":"INFO","msg":"stream: closed","id":"sc0xjh2b"}

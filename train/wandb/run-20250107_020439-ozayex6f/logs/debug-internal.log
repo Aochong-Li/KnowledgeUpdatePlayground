@@ -1,0 +1,7 @@
+{"time":"2025-01-07T02:04:39.622419822-05:00","level":"INFO","msg":"using version","core version":"0.18.6"}
+{"time":"2025-01-07T02:04:39.622476342-05:00","level":"INFO","msg":"created symlink","path":"/home/al2644/research/codebase/knowledge_update/training/wandb/run-20250107_020439-ozayex6f/logs/debug-core.log"}
+{"time":"2025-01-07T02:04:39.744574328-05:00","level":"INFO","msg":"created new stream","id":"ozayex6f"}
+{"time":"2025-01-07T02:04:39.744650191-05:00","level":"INFO","msg":"stream: started","id":"ozayex6f"}
+{"time":"2025-01-07T02:04:39.745586132-05:00","level":"INFO","msg":"sender: started","stream_id":"ozayex6f"}
+{"time":"2025-01-07T02:04:39.74570253-05:00","level":"INFO","msg":"handler: started","stream_id":{"value":"ozayex6f"}}
+{"time":"2025-01-07T02:04:39.744805187-05:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"ozayex6f"}}

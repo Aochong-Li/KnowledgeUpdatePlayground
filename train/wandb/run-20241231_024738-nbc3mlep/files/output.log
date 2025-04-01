@@ -1,0 +1,100 @@
+ 33%|███████████████████████████████████████████████████▎                                                                                                      | 19/57 [00:41<01:20,  2.11s/it]Saving model checkpoint to /share/goyal/lio/knowledge_update/continued_pretraining/model/instruct-explicitnews_sft-train-lr1e-06-rt1-rr0.0-epochs3-bs32-wd0.01-warmup0.05-new_knowledgenewhandpicked_rephrased5newslr5e06rt1rr0.1epochs5bs16wd0.01warmup0.05Llama3.18B_checkpoint614/checkpoint-19
+{'loss': 3.0365, 'grad_norm': 2013.8558349609375, 'learning_rate': 3.333333333333333e-07, 'epoch': 0.05}
+{'loss': 3.0597, 'grad_norm': 1678.9794921875, 'learning_rate': 6.666666666666666e-07, 'epoch': 0.1}
+{'loss': 3.3328, 'grad_norm': 22530.142578125, 'learning_rate': 1e-06, 'epoch': 0.16}
+{'loss': 2.7386, 'grad_norm': 34951.73828125, 'learning_rate': 9.991540791356342e-07, 'epoch': 0.21}
+{'loss': 2.4003, 'grad_norm': 72.535400390625, 'learning_rate': 9.966191788709714e-07, 'epoch': 0.26}
+{'loss': 2.3327, 'grad_norm': 21.963504791259766, 'learning_rate': 9.92403876506104e-07, 'epoch': 0.31}
+{'loss': 2.2713, 'grad_norm': 715.7233276367188, 'learning_rate': 9.865224352899118e-07, 'epoch': 0.36}
+{'loss': 2.2378, 'grad_norm': 20.988651275634766, 'learning_rate': 9.789947561577443e-07, 'epoch': 0.42}
+{'loss': 2.2396, 'grad_norm': 54.080867767333984, 'learning_rate': 9.698463103929541e-07, 'epoch': 0.47}
+{'loss': 2.1093, 'grad_norm': 1100.3455810546875, 'learning_rate': 9.591080534401371e-07, 'epoch': 0.52}
+{'loss': 2.1136, 'grad_norm': 181.3192596435547, 'learning_rate': 9.468163201617061e-07, 'epoch': 0.57}
+{'loss': 2.2178, 'grad_norm': 2695.062255859375, 'learning_rate': 9.330127018922193e-07, 'epoch': 0.62}
+{'loss': 2.1218, 'grad_norm': 335.3389892578125, 'learning_rate': 9.177439057064682e-07, 'epoch': 0.68}
+{'loss': 1.9817, 'grad_norm': 19.872913360595703, 'learning_rate': 9.010615963775219e-07, 'epoch': 0.73}
+{'loss': 2.1475, 'grad_norm': 815.5425415039062, 'learning_rate': 8.83022221559489e-07, 'epoch': 0.78}
+{'loss': 2.0532, 'grad_norm': 89.11597442626953, 'learning_rate': 8.636868207865243e-07, 'epoch': 0.83}
+{'loss': 2.0342, 'grad_norm': 116.10130310058594, 'learning_rate': 8.431208189343669e-07, 'epoch': 0.88}
+{'loss': 2.0403, 'grad_norm': 27.528783798217773, 'learning_rate': 8.213938048432696e-07, 'epoch': 0.94}
+{'loss': 1.9669, 'grad_norm': 30.89895248413086, 'learning_rate': 7.985792958513931e-07, 'epoch': 0.99}
+Configuration saved in /share/goyal/lio/knowledge_update/continued_pretraining/model/instruct-explicitnews_sft-train-lr1e-06-rt1-rr0.0-epochs3-bs32-wd0.01-warmup0.05-new_knowledgenewhandpicked_rephrased5newslr5e06rt1rr0.1epochs5bs16wd0.01warmup0.05Llama3.18B_checkpoint614/checkpoint-19/config.json
+Configuration saved in /share/goyal/lio/knowledge_update/continued_pretraining/model/instruct-explicitnews_sft-train-lr1e-06-rt1-rr0.0-epochs3-bs32-wd0.01-warmup0.05-new_knowledgenewhandpicked_rephrased5newslr5e06rt1rr0.1epochs5bs16wd0.01warmup0.05Llama3.18B_checkpoint614/checkpoint-19/generation_config.json
+The model is bigger than the maximum size per checkpoint (5GB) and is going to be split in 7 checkpoint shards. You can find where each parameters has been saved in the index located at /share/goyal/lio/knowledge_update/continued_pretraining/model/instruct-explicitnews_sft-train-lr1e-06-rt1-rr0.0-epochs3-bs32-wd0.01-warmup0.05-new_knowledgenewhandpicked_rephrased5newslr5e06rt1rr0.1epochs5bs16wd0.01warmup0.05Llama3.18B_checkpoint614/checkpoint-19/model.safetensors.index.json.
+2024-12-31 02:50:30,609 - INFO - Saving model to /share/goyal/lio/knowledge_update/continued_pretraining/model/instruct-explicitnews_sft-train-lr1e-06-rt1-rr0.0-epochs3-bs32-wd0.01-warmup0.05-new_knowledgenewhandpicked_rephrased5newslr5e06rt1rr0.1epochs5bs16wd0.01warmup0.05Llama3.18B_checkpoint614/checkpoint-19/pytorch_model_fsdp.bin
+2024-12-31 02:51:16,899 - INFO - Model saved to /share/goyal/lio/knowledge_update/continued_pretraining/model/instruct-explicitnews_sft-train-lr1e-06-rt1-rr0.0-epochs3-bs32-wd0.01-warmup0.05-new_knowledgenewhandpicked_rephrased5newslr5e06rt1rr0.1epochs5bs16wd0.01warmup0.05Llama3.18B_checkpoint614/checkpoint-19/pytorch_model_fsdp.bin
+2024-12-31 02:51:48,346 - INFO - Saving Optimizer state to /share/goyal/lio/knowledge_update/continued_pretraining/model/instruct-explicitnews_sft-train-lr1e-06-rt1-rr0.0-epochs3-bs32-wd0.01-warmup0.05-new_knowledgenewhandpicked_rephrased5newslr5e06rt1rr0.1epochs5bs16wd0.01warmup0.05Llama3.18B_checkpoint614/checkpoint-19/optimizer.bin
+2024-12-31 02:53:29,672 - INFO - Optimizer state saved in /share/goyal/lio/knowledge_update/continued_pretraining/model/instruct-explicitnews_sft-train-lr1e-06-rt1-rr0.0-epochs3-bs32-wd0.01-warmup0.05-new_knowledgenewhandpicked_rephrased5newslr5e06rt1rr0.1epochs5bs16wd0.01warmup0.05Llama3.18B_checkpoint614/checkpoint-19/optimizer.bin
+ 67%|██████████████████████████████████████████████████████████████████████████████████████████████████████▋                                                   | 38/57 [06:30<00:42,  2.25s/it]Saving model checkpoint to /share/goyal/lio/knowledge_update/continued_pretraining/model/instruct-explicitnews_sft-train-lr1e-06-rt1-rr0.0-epochs3-bs32-wd0.01-warmup0.05-new_knowledgenewhandpicked_rephrased5newslr5e06rt1rr0.1epochs5bs16wd0.01warmup0.05Llama3.18B_checkpoint614/checkpoint-38
+{'loss': 1.9606, 'grad_norm': 19.7677059173584, 'learning_rate': 7.74754489035403e-07, 'epoch': 1.04}
+{'loss': 1.96, 'grad_norm': 29.123004913330078, 'learning_rate': 7.5e-07, 'epoch': 1.09}
+{'loss': 1.9638, 'grad_norm': 14.525248527526855, 'learning_rate': 7.243995901002311e-07, 'epoch': 1.14}
+{'loss': 1.8879, 'grad_norm': 60.544673919677734, 'learning_rate': 6.980398830195784e-07, 'epoch': 1.19}
+{'loss': 1.9001, 'grad_norm': 484.35089111328125, 'learning_rate': 6.710100716628344e-07, 'epoch': 1.25}
+{'loss': 1.927, 'grad_norm': 29.376628875732422, 'learning_rate': 6.434016163555451e-07, 'epoch': 1.3}
+{'loss': 1.8677, 'grad_norm': 48.78675079345703, 'learning_rate': 6.153079353712201e-07, 'epoch': 1.35}
+{'loss': 1.8111, 'grad_norm': 16.166658401489258, 'learning_rate': 5.868240888334652e-07, 'epoch': 1.4}
+{'loss': 1.8295, 'grad_norm': 11.097831726074219, 'learning_rate': 5.580464570626151e-07, 'epoch': 1.45}
+{'loss': 1.8015, 'grad_norm': 18.004030227661133, 'learning_rate': 5.290724144552379e-07, 'epoch': 1.51}
+{'loss': 1.8283, 'grad_norm': 16.451696395874023, 'learning_rate': 5e-07, 'epoch': 1.56}
+{'loss': 1.8278, 'grad_norm': 25.063474655151367, 'learning_rate': 4.7092758554476206e-07, 'epoch': 1.61}
+{'loss': 1.7927, 'grad_norm': 909.022216796875, 'learning_rate': 4.419535429373848e-07, 'epoch': 1.66}
+{'loss': 1.7747, 'grad_norm': 24.17275047302246, 'learning_rate': 4.131759111665348e-07, 'epoch': 1.71}
+{'loss': 1.7733, 'grad_norm': 13.347782135009766, 'learning_rate': 3.846920646287799e-07, 'epoch': 1.77}
+{'loss': 1.7953, 'grad_norm': 2803.478271484375, 'learning_rate': 3.56598383644455e-07, 'epoch': 1.82}
+{'loss': 1.8079, 'grad_norm': 19.00598907470703, 'learning_rate': 3.2898992833716563e-07, 'epoch': 1.87}
+{'loss': 1.7912, 'grad_norm': 2069.580810546875, 'learning_rate': 3.0196011698042156e-07, 'epoch': 1.92}
+{'loss': 1.7396, 'grad_norm': 12.24952507019043, 'learning_rate': 2.756004098997689e-07, 'epoch': 1.97}
+Configuration saved in /share/goyal/lio/knowledge_update/continued_pretraining/model/instruct-explicitnews_sft-train-lr1e-06-rt1-rr0.0-epochs3-bs32-wd0.01-warmup0.05-new_knowledgenewhandpicked_rephrased5newslr5e06rt1rr0.1epochs5bs16wd0.01warmup0.05Llama3.18B_checkpoint614/checkpoint-38/config.json
+Configuration saved in /share/goyal/lio/knowledge_update/continued_pretraining/model/instruct-explicitnews_sft-train-lr1e-06-rt1-rr0.0-epochs3-bs32-wd0.01-warmup0.05-new_knowledgenewhandpicked_rephrased5newslr5e06rt1rr0.1epochs5bs16wd0.01warmup0.05Llama3.18B_checkpoint614/checkpoint-38/generation_config.json
+The model is bigger than the maximum size per checkpoint (5GB) and is going to be split in 7 checkpoint shards. You can find where each parameters has been saved in the index located at /share/goyal/lio/knowledge_update/continued_pretraining/model/instruct-explicitnews_sft-train-lr1e-06-rt1-rr0.0-epochs3-bs32-wd0.01-warmup0.05-new_knowledgenewhandpicked_rephrased5newslr5e06rt1rr0.1epochs5bs16wd0.01warmup0.05Llama3.18B_checkpoint614/checkpoint-38/model.safetensors.index.json.
+2024-12-31 02:56:10,861 - INFO - Saving model to /share/goyal/lio/knowledge_update/continued_pretraining/model/instruct-explicitnews_sft-train-lr1e-06-rt1-rr0.0-epochs3-bs32-wd0.01-warmup0.05-new_knowledgenewhandpicked_rephrased5newslr5e06rt1rr0.1epochs5bs16wd0.01warmup0.05Llama3.18B_checkpoint614/checkpoint-38/pytorch_model_fsdp.bin
+2024-12-31 02:56:56,601 - INFO - Model saved to /share/goyal/lio/knowledge_update/continued_pretraining/model/instruct-explicitnews_sft-train-lr1e-06-rt1-rr0.0-epochs3-bs32-wd0.01-warmup0.05-new_knowledgenewhandpicked_rephrased5newslr5e06rt1rr0.1epochs5bs16wd0.01warmup0.05Llama3.18B_checkpoint614/checkpoint-38/pytorch_model_fsdp.bin
+2024-12-31 02:57:27,543 - INFO - Saving Optimizer state to /share/goyal/lio/knowledge_update/continued_pretraining/model/instruct-explicitnews_sft-train-lr1e-06-rt1-rr0.0-epochs3-bs32-wd0.01-warmup0.05-new_knowledgenewhandpicked_rephrased5newslr5e06rt1rr0.1epochs5bs16wd0.01warmup0.05Llama3.18B_checkpoint614/checkpoint-38/optimizer.bin
+2024-12-31 02:58:57,534 - INFO - Optimizer state saved in /share/goyal/lio/knowledge_update/continued_pretraining/model/instruct-explicitnews_sft-train-lr1e-06-rt1-rr0.0-epochs3-bs32-wd0.01-warmup0.05-new_knowledgenewhandpicked_rephrased5newslr5e06rt1rr0.1epochs5bs16wd0.01warmup0.05Llama3.18B_checkpoint614/checkpoint-38/optimizer.bin
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 57/57 [11:57<00:00,  2.21s/it]Saving model checkpoint to /share/goyal/lio/knowledge_update/continued_pretraining/model/instruct-explicitnews_sft-train-lr1e-06-rt1-rr0.0-epochs3-bs32-wd0.01-warmup0.05-new_knowledgenewhandpicked_rephrased5newslr5e06rt1rr0.1epochs5bs16wd0.01warmup0.05Llama3.18B_checkpoint614/checkpoint-57
+{'loss': 1.7855, 'grad_norm': 30.747892379760742, 'learning_rate': 2.500000000000001e-07, 'epoch': 2.03}
+{'loss': 1.7484, 'grad_norm': 30.07980728149414, 'learning_rate': 2.25245510964597e-07, 'epoch': 2.08}
+{'loss': 1.7561, 'grad_norm': 11.557994842529297, 'learning_rate': 2.01420704148607e-07, 'epoch': 2.13}
+{'loss': 1.7551, 'grad_norm': 12.020227432250977, 'learning_rate': 1.7860619515673032e-07, 'epoch': 2.18}
+{'loss': 1.7655, 'grad_norm': 166.51104736328125, 'learning_rate': 1.5687918106563325e-07, 'epoch': 2.23}
+{'loss': 1.7565, 'grad_norm': 405.6183776855469, 'learning_rate': 1.3631317921347562e-07, 'epoch': 2.29}
+{'loss': 1.7459, 'grad_norm': 17.565204620361328, 'learning_rate': 1.1697777844051104e-07, 'epoch': 2.34}
+{'loss': 1.7713, 'grad_norm': 200.33160400390625, 'learning_rate': 9.893840362247807e-08, 'epoch': 2.39}
+{'loss': 1.729, 'grad_norm': 21.33019256591797, 'learning_rate': 8.225609429353186e-08, 'epoch': 2.44}
+{'loss': 1.7312, 'grad_norm': 18.625755310058594, 'learning_rate': 6.698729810778064e-08, 'epoch': 2.49}
+{'loss': 1.7524, 'grad_norm': 12.271058082580566, 'learning_rate': 5.318367983829392e-08, 'epoch': 2.55}
+{'loss': 1.7493, 'grad_norm': 44.93373107910156, 'learning_rate': 4.089194655986306e-08, 'epoch': 2.6}
+{'loss': 1.724, 'grad_norm': 20.051610946655273, 'learning_rate': 3.015368960704584e-08, 'epoch': 2.65}
+{'loss': 1.7229, 'grad_norm': 10.78792667388916, 'learning_rate': 2.100524384225555e-08, 'epoch': 2.7}
+{'loss': 1.6932, 'grad_norm': 60.25304412841797, 'learning_rate': 1.3477564710088096e-08, 'epoch': 2.75}
+{'loss': 1.7548, 'grad_norm': 22.019630432128906, 'learning_rate': 7.59612349389599e-09, 'epoch': 2.81}
+{'loss': 1.6937, 'grad_norm': 52.708717346191406, 'learning_rate': 3.380821129028488e-09, 'epoch': 2.86}
+{'loss': 1.7404, 'grad_norm': 202.6314239501953, 'learning_rate': 8.459208643659121e-10, 'epoch': 2.91}
+{'loss': 1.7071, 'grad_norm': 10.429033279418945, 'learning_rate': 0.0, 'epoch': 2.96}
+Configuration saved in /share/goyal/lio/knowledge_update/continued_pretraining/model/instruct-explicitnews_sft-train-lr1e-06-rt1-rr0.0-epochs3-bs32-wd0.01-warmup0.05-new_knowledgenewhandpicked_rephrased5newslr5e06rt1rr0.1epochs5bs16wd0.01warmup0.05Llama3.18B_checkpoint614/checkpoint-57/config.json
+Configuration saved in /share/goyal/lio/knowledge_update/continued_pretraining/model/instruct-explicitnews_sft-train-lr1e-06-rt1-rr0.0-epochs3-bs32-wd0.01-warmup0.05-new_knowledgenewhandpicked_rephrased5newslr5e06rt1rr0.1epochs5bs16wd0.01warmup0.05Llama3.18B_checkpoint614/checkpoint-57/generation_config.json
+The model is bigger than the maximum size per checkpoint (5GB) and is going to be split in 7 checkpoint shards. You can find where each parameters has been saved in the index located at /share/goyal/lio/knowledge_update/continued_pretraining/model/instruct-explicitnews_sft-train-lr1e-06-rt1-rr0.0-epochs3-bs32-wd0.01-warmup0.05-new_knowledgenewhandpicked_rephrased5newslr5e06rt1rr0.1epochs5bs16wd0.01warmup0.05Llama3.18B_checkpoint614/checkpoint-57/model.safetensors.index.json.
+2024-12-31 03:01:38,330 - INFO - Saving model to /share/goyal/lio/knowledge_update/continued_pretraining/model/instruct-explicitnews_sft-train-lr1e-06-rt1-rr0.0-epochs3-bs32-wd0.01-warmup0.05-new_knowledgenewhandpicked_rephrased5newslr5e06rt1rr0.1epochs5bs16wd0.01warmup0.05Llama3.18B_checkpoint614/checkpoint-57/pytorch_model_fsdp.bin
+2024-12-31 03:02:19,313 - INFO - Model saved to /share/goyal/lio/knowledge_update/continued_pretraining/model/instruct-explicitnews_sft-train-lr1e-06-rt1-rr0.0-epochs3-bs32-wd0.01-warmup0.05-new_knowledgenewhandpicked_rephrased5newslr5e06rt1rr0.1epochs5bs16wd0.01warmup0.05Llama3.18B_checkpoint614/checkpoint-57/pytorch_model_fsdp.bin
+2024-12-31 03:02:49,395 - INFO - Saving Optimizer state to /share/goyal/lio/knowledge_update/continued_pretraining/model/instruct-explicitnews_sft-train-lr1e-06-rt1-rr0.0-epochs3-bs32-wd0.01-warmup0.05-new_knowledgenewhandpicked_rephrased5newslr5e06rt1rr0.1epochs5bs16wd0.01warmup0.05Llama3.18B_checkpoint614/checkpoint-57/optimizer.bin
+2024-12-31 03:04:26,424 - INFO - Optimizer state saved in /share/goyal/lio/knowledge_update/continued_pretraining/model/instruct-explicitnews_sft-train-lr1e-06-rt1-rr0.0-epochs3-bs32-wd0.01-warmup0.05-new_knowledgenewhandpicked_rephrased5newslr5e06rt1rr0.1epochs5bs16wd0.01warmup0.05Llama3.18B_checkpoint614/checkpoint-57/optimizer.bin
+Saving model checkpoint to /share/goyal/lio/knowledge_update/continued_pretraining/model/instruct-explicitnews_sft-train-lr1e-06-rt1-rr0.0-epochs3-bs32-wd0.01-warmup0.05-new_knowledgenewhandpicked_rephrased5newslr5e06rt1rr0.1epochs5bs16wd0.01warmup0.05Llama3.18B_checkpoint614/checkpoint-57
+Configuration saved in /share/goyal/lio/knowledge_update/continued_pretraining/model/instruct-explicitnews_sft-train-lr1e-06-rt1-rr0.0-epochs3-bs32-wd0.01-warmup0.05-new_knowledgenewhandpicked_rephrased5newslr5e06rt1rr0.1epochs5bs16wd0.01warmup0.05Llama3.18B_checkpoint614/checkpoint-57/config.json
+Configuration saved in /share/goyal/lio/knowledge_update/continued_pretraining/model/instruct-explicitnews_sft-train-lr1e-06-rt1-rr0.0-epochs3-bs32-wd0.01-warmup0.05-new_knowledgenewhandpicked_rephrased5newslr5e06rt1rr0.1epochs5bs16wd0.01warmup0.05Llama3.18B_checkpoint614/checkpoint-57/generation_config.json
+The model is bigger than the maximum size per checkpoint (5GB) and is going to be split in 7 checkpoint shards. You can find where each parameters has been saved in the index located at /share/goyal/lio/knowledge_update/continued_pretraining/model/instruct-explicitnews_sft-train-lr1e-06-rt1-rr0.0-epochs3-bs32-wd0.01-warmup0.05-new_knowledgenewhandpicked_rephrased5newslr5e06rt1rr0.1epochs5bs16wd0.01warmup0.05Llama3.18B_checkpoint614/checkpoint-57/model.safetensors.index.json.
+2024-12-31 03:06:29,498 - INFO - Saving model to /share/goyal/lio/knowledge_update/continued_pretraining/model/instruct-explicitnews_sft-train-lr1e-06-rt1-rr0.0-epochs3-bs32-wd0.01-warmup0.05-new_knowledgenewhandpicked_rephrased5newslr5e06rt1rr0.1epochs5bs16wd0.01warmup0.05Llama3.18B_checkpoint614/checkpoint-57/pytorch_model_fsdp.bin
+2024-12-31 03:07:23,254 - INFO - Model saved to /share/goyal/lio/knowledge_update/continued_pretraining/model/instruct-explicitnews_sft-train-lr1e-06-rt1-rr0.0-epochs3-bs32-wd0.01-warmup0.05-new_knowledgenewhandpicked_rephrased5newslr5e06rt1rr0.1epochs5bs16wd0.01warmup0.05Llama3.18B_checkpoint614/checkpoint-57/pytorch_model_fsdp.bin
+2024-12-31 03:07:54,092 - INFO - Saving Optimizer state to /share/goyal/lio/knowledge_update/continued_pretraining/model/instruct-explicitnews_sft-train-lr1e-06-rt1-rr0.0-epochs3-bs32-wd0.01-warmup0.05-new_knowledgenewhandpicked_rephrased5newslr5e06rt1rr0.1epochs5bs16wd0.01warmup0.05Llama3.18B_checkpoint614/checkpoint-57/optimizer.bin
+2024-12-31 03:09:27,262 - INFO - Optimizer state saved in /share/goyal/lio/knowledge_update/continued_pretraining/model/instruct-explicitnews_sft-train-lr1e-06-rt1-rr0.0-epochs3-bs32-wd0.01-warmup0.05-new_knowledgenewhandpicked_rephrased5newslr5e06rt1rr0.1epochs5bs16wd0.01warmup0.05Llama3.18B_checkpoint614/checkpoint-57/optimizer.bin
+
+
+Training completed. Do not forget to share your model on huggingface.co/models =)
+
+
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 57/57 [21:48<00:00, 22.96s/it]
+{'train_runtime': 1311.5231, 'train_samples_per_second': 0.352, 'train_steps_per_second': 0.043, 'train_loss': 1.9747073357565361, 'epoch': 2.96}
+Saving model checkpoint to /share/goyal/lio/knowledge_update/continued_pretraining/model/instruct-explicitnews_sft-train-lr1e-06-rt1-rr0.0-epochs3-bs32-wd0.01-warmup0.05-new_knowledgenewhandpicked_rephrased5newslr5e06rt1rr0.1epochs5bs16wd0.01warmup0.05Llama3.18B_checkpoint614
+Configuration saved in /share/goyal/lio/knowledge_update/continued_pretraining/model/instruct-explicitnews_sft-train-lr1e-06-rt1-rr0.0-epochs3-bs32-wd0.01-warmup0.05-new_knowledgenewhandpicked_rephrased5newslr5e06rt1rr0.1epochs5bs16wd0.01warmup0.05Llama3.18B_checkpoint614/config.json
+Configuration saved in /share/goyal/lio/knowledge_update/continued_pretraining/model/instruct-explicitnews_sft-train-lr1e-06-rt1-rr0.0-epochs3-bs32-wd0.01-warmup0.05-new_knowledgenewhandpicked_rephrased5newslr5e06rt1rr0.1epochs5bs16wd0.01warmup0.05Llama3.18B_checkpoint614/generation_config.json
+The model is bigger than the maximum size per checkpoint (5GB) and is going to be split in 7 checkpoint shards. You can find where each parameters has been saved in the index located at /share/goyal/lio/knowledge_update/continued_pretraining/model/instruct-explicitnews_sft-train-lr1e-06-rt1-rr0.0-epochs3-bs32-wd0.01-warmup0.05-new_knowledgenewhandpicked_rephrased5newslr5e06rt1rr0.1epochs5bs16wd0.01warmup0.05Llama3.18B_checkpoint614/model.safetensors.index.json.

@@ -1,0 +1,73 @@
+{
+  "os": "Linux-5.4.0-200-generic-x86_64-with-glibc2.31",
+  "python": "3.12.4",
+  "startedAt": "2025-01-30T03:58:48.632177Z",
+  "args": [
+    "--model_name=meta-llama/Llama-3.1-8B",
+    "--block_size=256",
+    "--per_device_train_batch_size=1",
+    "--per_device_eval_batch_size=2",
+    "--gradient_accumulation_steps=1",
+    "--num_train_epochs=1",
+    "--learning_rate=5e-06",
+    "--repeat_time=1",
+    "--replay_rate=0.01",
+    "--subsample_ratio=1.0",
+    "--overwrite_output_dir=True",
+    "--task_name=knowledge",
+    "--split_name=llama8b_cpt_prior_control",
+    "--logging_steps=1",
+    "--run_name=knowledge-llama8b_cpt_prior_control-lr5e-06-rt1-rr0.01-epochs1-blocksize256-bs2-wd0.01-warmup0.05-Llama_3.1_8B",
+    "--bf16=True",
+    "--output_dir=/share/goyal/lio/knowledge_delta/training/model/Llama_3.1_8B/knowledge-llama8b_cpt_prior_control-lr5e-06-rt1-rr0.01-epochs1-blocksize256-bs2-wd0.01-warmup0.05-Llama_3.1_8B",
+    "--weight_decay=0.01",
+    "--warmup_ratio=0.05",
+    "--evaluation_strategy=no",
+    "--save_strategy=epoch",
+    "--lr_scheduler_type=cosine",
+    "--log_level=info"
+  ],
+  "program": "/home/al2644/research/codebase/knowledge_update/training/train.py",
+  "codePath": "train.py",
+  "email": "al2644@cornell.edu",
+  "root": "/home/al2644/research/codebase/knowledge_update/training",
+  "host": "goyal-compute-01.cs.cornell.edu",
+  "username": "al2644",
+  "executable": "/home/al2644/anaconda3/envs/nlp/bin/python",
+  "codePathLocal": "train.py",
+  "cpu_count": 64,
+  "cpu_count_logical": 64,
+  "gpu": "NVIDIA H100 NVL",
+  "gpu_count": 2,
+  "disk": {
+    "/": {
+      "total": "85857402880",
+      "used": "64937648128"
+    }
+  },
+  "memory": {
+    "total": "1081893679104"
+  },
+  "cpu": {
+    "count": 64,
+    "countLogical": 64
+  },
+  "gpu_nvidia": [
+    {
+      "name": "NVIDIA H100 NVL",
+      "memoryTotal": "100485038080",
+      "cudaCores": 16896,
+      "architecture": "Hopper"
+    },
+    {
+      "name": "NVIDIA H100 NVL",
+      "memoryTotal": "100485038080",
+      "cudaCores": 16896,
+      "architecture": "Hopper"
+    }
+  ],
+  "slurm": {
+    "job_id": "6499601"
+  },
+  "cudaVersion": "12.2"
+}

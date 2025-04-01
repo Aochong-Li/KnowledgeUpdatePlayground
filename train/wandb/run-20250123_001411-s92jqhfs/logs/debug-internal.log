@@ -1,0 +1,19 @@
+{"time":"2025-01-23T00:14:11.976416757-05:00","level":"INFO","msg":"using version","core version":"0.18.6"}
+{"time":"2025-01-23T00:14:11.976441296-05:00","level":"INFO","msg":"created symlink","path":"/home/al2644/research/codebase/knowledge_update/training/wandb/run-20250123_001411-s92jqhfs/logs/debug-core.log"}
+{"time":"2025-01-23T00:14:12.098408447-05:00","level":"INFO","msg":"created new stream","id":"s92jqhfs"}
+{"time":"2025-01-23T00:14:12.098458133-05:00","level":"INFO","msg":"stream: started","id":"s92jqhfs"}
+{"time":"2025-01-23T00:14:12.098547068-05:00","level":"INFO","msg":"sender: started","stream_id":"s92jqhfs"}
+{"time":"2025-01-23T00:14:12.098506583-05:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"s92jqhfs"}}
+{"time":"2025-01-23T00:14:12.098517273-05:00","level":"INFO","msg":"handler: started","stream_id":{"value":"s92jqhfs"}}
+{"time":"2025-01-23T00:14:12.33005473-05:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-23T00:14:16.822425215-05:00","level":"INFO","msg":"stream: closing","id":"s92jqhfs"}
+{"time":"2025-01-23T00:14:16.822533454-05:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-23T00:14:16.82370456-05:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-23T00:14:17.056222989-05:00","level":"WARN","msg":"No job ingredients found, not creating job artifact"}
+{"time":"2025-01-23T00:14:17.056256161-05:00","level":"WARN","msg":"No source type found, not creating job artifact"}
+{"time":"2025-01-23T00:14:17.056265399-05:00","level":"INFO","msg":"sender: sendDefer: no job artifact to save"}
+{"time":"2025-01-23T00:14:17.33522942-05:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-23T00:14:17.472003046-05:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"s92jqhfs"}}
+{"time":"2025-01-23T00:14:17.472074445-05:00","level":"INFO","msg":"sender: closed","stream_id":"s92jqhfs"}
+{"time":"2025-01-23T00:14:17.472054865-05:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"s92jqhfs"}}
+{"time":"2025-01-23T00:14:17.473551905-05:00","level":"INFO","msg":"stream: closed","id":"s92jqhfs"}

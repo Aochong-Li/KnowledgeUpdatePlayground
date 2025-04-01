@@ -1,0 +1,19 @@
+{"time":"2025-02-06T04:11:30.880997046-05:00","level":"INFO","msg":"using version","core version":"0.18.6"}
+{"time":"2025-02-06T04:11:30.881044385-05:00","level":"INFO","msg":"created symlink","path":"/home/al2644/research/codebase/knowledge_update/training/wandb/run-20250206_041130-pwoo2773/logs/debug-core.log"}
+{"time":"2025-02-06T04:11:31.00690498-05:00","level":"INFO","msg":"created new stream","id":"pwoo2773"}
+{"time":"2025-02-06T04:11:31.006976097-05:00","level":"INFO","msg":"stream: started","id":"pwoo2773"}
+{"time":"2025-02-06T04:11:31.007197458-05:00","level":"INFO","msg":"sender: started","stream_id":"pwoo2773"}
+{"time":"2025-02-06T04:11:31.007110717-05:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"pwoo2773"}}
+{"time":"2025-02-06T04:11:31.007280082-05:00","level":"INFO","msg":"handler: started","stream_id":{"value":"pwoo2773"}}
+{"time":"2025-02-06T04:11:31.227417883-05:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-06T05:44:00.428099851-05:00","level":"INFO","msg":"stream: closing","id":"pwoo2773"}
+{"time":"2025-02-06T05:44:00.428203865-05:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-06T05:44:00.429371144-05:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-06T05:44:00.522568894-05:00","level":"WARN","msg":"No job ingredients found, not creating job artifact"}
+{"time":"2025-02-06T05:44:00.5225825-05:00","level":"WARN","msg":"No source type found, not creating job artifact"}
+{"time":"2025-02-06T05:44:00.522588321-05:00","level":"INFO","msg":"sender: sendDefer: no job artifact to save"}
+{"time":"2025-02-06T05:44:00.811893199-05:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-02-06T05:44:00.93500598-05:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"pwoo2773"}}
+{"time":"2025-02-06T05:44:00.935064522-05:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"pwoo2773"}}
+{"time":"2025-02-06T05:44:00.935104625-05:00","level":"INFO","msg":"sender: closed","stream_id":"pwoo2773"}
+{"time":"2025-02-06T05:44:00.9365971-05:00","level":"INFO","msg":"stream: closed","id":"pwoo2773"}

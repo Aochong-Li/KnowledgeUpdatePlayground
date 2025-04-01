@@ -1,0 +1,20 @@
+  1%|██                                                                                                                                                      | 15/1086 [00:18<20:49,  1.17s/it]
+{'loss': 1.6141, 'grad_norm': 6.468388080596924, 'learning_rate': 9.090909090909091e-08, 'epoch': 0.0}
+{'loss': 2.0619, 'grad_norm': 5.386312484741211, 'learning_rate': 1.8181818181818183e-07, 'epoch': 0.01}
+{'loss': 1.8461, 'grad_norm': 6.661222457885742, 'learning_rate': 2.7272727272727274e-07, 'epoch': 0.01}
+{'loss': 2.0707, 'grad_norm': 7.283738613128662, 'learning_rate': 3.6363636363636366e-07, 'epoch': 0.01}
+{'loss': 1.927, 'grad_norm': 5.931521892547607, 'learning_rate': 4.5454545454545457e-07, 'epoch': 0.01}
+{'loss': 1.767, 'grad_norm': 4.735137462615967, 'learning_rate': 5.454545454545455e-07, 'epoch': 0.02}
+{'loss': 1.6222, 'grad_norm': 9.343365669250488, 'learning_rate': 6.363636363636364e-07, 'epoch': 0.02}
+{'loss': 2.0296, 'grad_norm': 6.5611982345581055, 'learning_rate': 7.272727272727273e-07, 'epoch': 0.02}
+{'loss': 2.1405, 'grad_norm': 5.7703328132629395, 'learning_rate': 8.181818181818182e-07, 'epoch': 0.02}
+{'loss': 2.2122, 'grad_norm': 9.30801010131836, 'learning_rate': 9.090909090909091e-07, 'epoch': 0.03}
+{'loss': 1.7323, 'grad_norm': 6.11203670501709, 'learning_rate': 1.0000000000000002e-06, 'epoch': 0.03}
+{'loss': 2.1068, 'grad_norm': 9.375104904174805, 'learning_rate': 1.090909090909091e-06, 'epoch': 0.03}
+{'loss': 1.9601, 'grad_norm': 6.897186756134033, 'learning_rate': 1.181818181818182e-06, 'epoch': 0.04}
+{'loss': 1.7182, 'grad_norm': 6.990391731262207, 'learning_rate': 1.2727272727272728e-06, 'epoch': 0.04}
+{'loss': 1.9029, 'grad_norm': 5.489078998565674, 'learning_rate': 1.3636363636363636e-06, 'epoch': 0.04}
+
+Program interrupted. (Use 'cont' to resume).
+KeyError: 'PYTORCH_NVML_BASED_CUDA_CHECK'
+> <frozen os>(714)__getitem__()

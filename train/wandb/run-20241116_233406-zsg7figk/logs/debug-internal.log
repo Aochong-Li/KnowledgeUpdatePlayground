@@ -1,0 +1,8 @@
+{"time":"2024-11-16T23:34:06.633735769-05:00","level":"INFO","msg":"using version","core version":"0.18.6"}
+{"time":"2024-11-16T23:34:06.633760845-05:00","level":"INFO","msg":"created symlink","path":"/home/al2644/research/codebase/knowledge_update/continued_pretraining/wandb/run-20241116_233406-zsg7figk/logs/debug-core.log"}
+{"time":"2024-11-16T23:34:06.756205648-05:00","level":"INFO","msg":"created new stream","id":"zsg7figk"}
+{"time":"2024-11-16T23:34:06.756248148-05:00","level":"INFO","msg":"stream: started","id":"zsg7figk"}
+{"time":"2024-11-16T23:34:06.756505399-05:00","level":"INFO","msg":"sender: started","stream_id":"zsg7figk"}
+{"time":"2024-11-16T23:34:06.756392498-05:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"zsg7figk"}}
+{"time":"2024-11-16T23:34:06.756668399-05:00","level":"INFO","msg":"handler: started","stream_id":{"value":"zsg7figk"}}
+{"time":"2024-11-16T23:34:06.958064607-05:00","level":"INFO","msg":"Starting system monitor"}

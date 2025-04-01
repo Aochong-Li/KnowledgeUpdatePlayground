@@ -1,0 +1,20 @@
+{"time":"2025-01-07T03:40:58.535326186-05:00","level":"INFO","msg":"using version","core version":"0.18.6"}
+{"time":"2025-01-07T03:40:58.535344849-05:00","level":"INFO","msg":"created symlink","path":"/home/al2644/research/codebase/knowledge_update/training/wandb/run-20250107_034058-dl0dtnqs/logs/debug-core.log"}
+{"time":"2025-01-07T03:40:58.653921487-05:00","level":"INFO","msg":"created new stream","id":"dl0dtnqs"}
+{"time":"2025-01-07T03:40:58.653957319-05:00","level":"INFO","msg":"stream: started","id":"dl0dtnqs"}
+{"time":"2025-01-07T03:40:58.653974641-05:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"dl0dtnqs"}}
+{"time":"2025-01-07T03:40:58.654042378-05:00","level":"INFO","msg":"sender: started","stream_id":"dl0dtnqs"}
+{"time":"2025-01-07T03:40:58.654017957-05:00","level":"INFO","msg":"handler: started","stream_id":{"value":"dl0dtnqs"}}
+{"time":"2025-01-07T03:40:58.870184533-05:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-07T03:41:28.922366305-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded"}
+{"time":"2025-01-07T04:24:07.034510331-05:00","level":"INFO","msg":"stream: closing","id":"dl0dtnqs"}
+{"time":"2025-01-07T04:24:07.034619658-05:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-07T04:24:07.035693567-05:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-07T04:24:07.163712024-05:00","level":"WARN","msg":"No job ingredients found, not creating job artifact"}
+{"time":"2025-01-07T04:24:07.16373729-05:00","level":"WARN","msg":"No source type found, not creating job artifact"}
+{"time":"2025-01-07T04:24:07.163747679-05:00","level":"INFO","msg":"sender: sendDefer: no job artifact to save"}
+{"time":"2025-01-07T04:24:07.533528592-05:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-07T04:24:07.690141992-05:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"dl0dtnqs"}}
+{"time":"2025-01-07T04:24:07.690205537-05:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"dl0dtnqs"}}
+{"time":"2025-01-07T04:24:07.690236078-05:00","level":"INFO","msg":"sender: closed","stream_id":"dl0dtnqs"}
+{"time":"2025-01-07T04:24:07.691639905-05:00","level":"INFO","msg":"stream: closed","id":"dl0dtnqs"}

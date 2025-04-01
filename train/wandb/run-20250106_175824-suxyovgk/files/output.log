@@ -1,0 +1,65 @@
+  0%|                                                                                                                                                                 | 0/1086 [00:00<?, ?it/s]
+> /home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/transformers/trainer.py(3388)compute_loss()
+-> return (loss, outputs) if return_outputs else loss
+<module 'torch.nn' from '/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/torch/nn/__init__.py'>
+--Return--
+> /home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/transformers/trainer.py(3388)compute_loss()->tensor(2.0887...ossBackward0>)
+-> return (loss, outputs) if return_outputs else loss
+> /home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/transformers/trainer.py(3317)training_step()
+-> with self.compute_loss_context_manager():
+*** NameError: name 'nnnn' is not defined
+*** NameError: name 'nnnn' is not defined
+> /home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/transformers/trainer.py(3320)training_step()
+-> del inputs
+tensor(2.0887, device='cuda:0', grad_fn=<NllLossBackward0>)
+*** NameError: name 'nnn' is not defined
+> /home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/transformers/trainer.py(3322)training_step()
+-> self.args.torch_empty_cache_steps is not None
+<module 'torch.nn' from '/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/torch/nn/__init__.py'>
+tensor(2.0887, device='cuda:0', grad_fn=<NllLossBackward0>)
+> /home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/transformers/trainer.py(3336)training_step()
+-> kwargs = {}
+> /home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/transformers/trainer.py(3339)training_step()
+-> if self.args.optim in [OptimizerNames.LOMO, OptimizerNames.ADALOMO]:
+*** AttributeError: 'Trainer' object has no attribute 'ags'. Did you mean: 'args'?
+*** NameError: name 'sel' is not defined
+*** NameError: name 'sel' is not defined
+*** NameError: name 'm' is not defined
+*** NameError: name 'm' is not defined
+> /home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/transformers/trainer.py(3342)training_step()
+-> if self.args.n_gpu > 1:
+> /home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/transformers/trainer.py(3345)training_step()
+-> if self.use_apex:
+> /home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/transformers/trainer.py(3349)training_step()
+-> self.accelerator.backward(loss, **kwargs)
+> /home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/transformers/trainer.py(3351)training_step()
+-> return loss.detach() / self.args.gradient_accumulation_steps
+*** SyntaxError: invalid syntax
+*** NameError: name 'sel' is not defined
+*** NameError: name 'sel' is not defined
+*** NameError: name 'sel' is not defined
+*** NameError: name 'sel' is not defined
+*** NameError: name 'sel' is not defined
+<transformers.trainer.Trainer object at 0x7f4039e58bc0>
+*** NameError: name 'selfs' is not defined
+--Return--
+> /home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/transformers/trainer.py(3351)training_step()->tensor(1.0444...vice='cuda:0')
+-> return loss.detach() / self.args.gradient_accumulation_steps
+> /home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/transformers/trainer.py(2278)_inner_training_loop()
+-> with self.accelerator.accumulate(model):
+*** NameError: name 'trlstep' is not defined
+> /home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/transformers/trainer.py(2282)_inner_training_loop()
+-> args.logging_nan_inf_filter
+> /home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/transformers/trainer.py(2283)_inner_training_loop()
+-> and not is_torch_xla_available()
+<module 'torch.nn' from '/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/torch/nn/__init__.py'>
+<module 'torch.nn' from '/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/torch/nn/__init__.py'>
+> /home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/transformers/trainer.py(2284)_inner_training_loop()
+-> and (torch.isnan(tr_loss_step) or torch.isinf(tr_loss_step))
+> /home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/transformers/trainer.py(2289)_inner_training_loop()
+-> if tr_loss.device != tr_loss_step.device:
+> /home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/transformers/trainer.py(2293)_inner_training_loop()
+-> tr_loss += tr_loss_step
+> /home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/transformers/trainer.py(2295)_inner_training_loop()
+-> self.current_flos += float(self.floating_point_ops(inputs))
+*** NameError: name 'ex' is not defined

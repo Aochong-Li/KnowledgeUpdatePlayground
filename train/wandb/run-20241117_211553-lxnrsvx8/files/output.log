@@ -1,0 +1,62 @@
+  0%|▏                                                  | 16/3817 [02:04<8:12:08,  7.77s/it]Traceback (most recent call last):
+{'loss': 1.586, 'grad_norm': inf, 'learning_rate': 2.617801047120419e-08, 'epoch': 0.0}
+{'loss': 1.6484, 'grad_norm': 83.24693298339844, 'learning_rate': 5.235602094240838e-08, 'epoch': 0.0}
+{'loss': 1.6963, 'grad_norm': 116.45018768310547, 'learning_rate': 7.853403141361257e-08, 'epoch': 0.0}
+{'loss': 1.7765, 'grad_norm': 95.32189178466797, 'learning_rate': 1.0471204188481677e-07, 'epoch': 0.0}
+{'loss': 1.6388, 'grad_norm': 46753.7578125, 'learning_rate': 1.3089005235602095e-07, 'epoch': 0.0}
+{'loss': 1.8071, 'grad_norm': 66.73555755615234, 'learning_rate': 1.5706806282722514e-07, 'epoch': 0.0}
+{'loss': 1.6052, 'grad_norm': 72.17036437988281, 'learning_rate': 1.8324607329842932e-07, 'epoch': 0.0}
+{'loss': 1.6158, 'grad_norm': 44.727439880371094, 'learning_rate': 2.0942408376963353e-07, 'epoch': 0.0}
+{'loss': 1.6799, 'grad_norm': 33.856014251708984, 'learning_rate': 2.3560209424083772e-07, 'epoch': 0.0}
+{'loss': 1.6283, 'grad_norm': 35.999847412109375, 'learning_rate': 2.617801047120419e-07, 'epoch': 0.0}
+{'loss': 1.622, 'grad_norm': 15.344023704528809, 'learning_rate': 2.879581151832461e-07, 'epoch': 0.0}
+{'loss': 1.5914, 'grad_norm': 6762.66943359375, 'learning_rate': 3.1413612565445027e-07, 'epoch': 0.0}
+{'loss': 1.4689, 'grad_norm': 2993.919677734375, 'learning_rate': 3.403141361256545e-07, 'epoch': 0.0}
+{'loss': 1.5395, 'grad_norm': 3544.125, 'learning_rate': 3.6649214659685864e-07, 'epoch': 0.0}
+{'loss': 1.5727, 'grad_norm': 3692.199951171875, 'learning_rate': 3.926701570680629e-07, 'epoch': 0.0}
+{'loss': 1.4543, 'grad_norm': 9.106276512145996, 'learning_rate': 4.1884816753926706e-07, 'epoch': 0.0}
+  File "/home/al2644/research/codebase/knowledge_update/continued_pretraining/train.py", line 49, in <module>
+    train()
+  File "/home/al2644/research/codebase/knowledge_update/continued_pretraining/train.py", line 43, in train
+    trainer.train()
+  File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/transformers/trainer.py", line 1938, in train
+    return inner_training_loop(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/transformers/trainer.py", line 2279, in _inner_training_loop
+    tr_loss_step = self.training_step(model, inputs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/transformers/trainer.py", line 3349, in training_step
+    self.accelerator.backward(loss, **kwargs)
+  File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/accelerate/accelerator.py", line 2241, in backward
+    loss.backward(**kwargs)
+  File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/torch/_tensor.py", line 521, in backward
+    torch.autograd.backward(
+  File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/torch/autograd/__init__.py", line 289, in backward
+    _engine_run_backward(
+  File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/torch/autograd/graph.py", line 768, in _engine_run_backward
+    return Variable._execution_engine.run_backward(  # Calls into the C++ engine to run the backward pass
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt
+[rank0]: Traceback (most recent call last):
+[rank0]:   File "/home/al2644/research/codebase/knowledge_update/continued_pretraining/train.py", line 49, in <module>
+[rank0]:     train()
+[rank0]:   File "/home/al2644/research/codebase/knowledge_update/continued_pretraining/train.py", line 43, in train
+[rank0]:     trainer.train()
+[rank0]:   File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/transformers/trainer.py", line 1938, in train
+[rank0]:     return inner_training_loop(
+[rank0]:            ^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/transformers/trainer.py", line 2279, in _inner_training_loop
+[rank0]:     tr_loss_step = self.training_step(model, inputs)
+[rank0]:                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/transformers/trainer.py", line 3349, in training_step
+[rank0]:     self.accelerator.backward(loss, **kwargs)
+[rank0]:   File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/accelerate/accelerator.py", line 2241, in backward
+[rank0]:     loss.backward(**kwargs)
+[rank0]:   File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/torch/_tensor.py", line 521, in backward
+[rank0]:     torch.autograd.backward(
+[rank0]:   File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/torch/autograd/__init__.py", line 289, in backward
+[rank0]:     _engine_run_backward(
+[rank0]:   File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/torch/autograd/graph.py", line 768, in _engine_run_backward
+[rank0]:     return Variable._execution_engine.run_backward(  # Calls into the C++ engine to run the backward pass
+[rank0]:            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]: KeyboardInterrupt

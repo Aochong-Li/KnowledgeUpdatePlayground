@@ -1,0 +1,19 @@
+{"time":"2024-11-21T00:07:29.205367082-05:00","level":"INFO","msg":"using version","core version":"0.18.6"}
+{"time":"2024-11-21T00:07:29.205392131-05:00","level":"INFO","msg":"created symlink","path":"/home/al2644/research/codebase/knowledge_update/continued_pretraining/wandb/run-20241121_000729-ck2rh904/logs/debug-core.log"}
+{"time":"2024-11-21T00:07:29.323839949-05:00","level":"INFO","msg":"created new stream","id":"ck2rh904"}
+{"time":"2024-11-21T00:07:29.323911552-05:00","level":"INFO","msg":"stream: started","id":"ck2rh904"}
+{"time":"2024-11-21T00:07:29.324491067-05:00","level":"INFO","msg":"sender: started","stream_id":"ck2rh904"}
+{"time":"2024-11-21T00:07:29.324395232-05:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"ck2rh904"}}
+{"time":"2024-11-21T00:07:29.324470624-05:00","level":"INFO","msg":"handler: started","stream_id":{"value":"ck2rh904"}}
+{"time":"2024-11-21T00:07:29.522723922-05:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-21T00:17:51.193097054-05:00","level":"INFO","msg":"stream: closing","id":"ck2rh904"}
+{"time":"2024-11-21T00:17:51.19319789-05:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-21T00:17:51.19442272-05:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-21T00:17:51.459043071-05:00","level":"WARN","msg":"No job ingredients found, not creating job artifact"}
+{"time":"2024-11-21T00:17:51.459070627-05:00","level":"WARN","msg":"No source type found, not creating job artifact"}
+{"time":"2024-11-21T00:17:51.459080374-05:00","level":"INFO","msg":"sender: sendDefer: no job artifact to save"}
+{"time":"2024-11-21T00:17:51.768335281-05:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-21T00:17:51.904515712-05:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"ck2rh904"}}
+{"time":"2024-11-21T00:17:51.904611914-05:00","level":"INFO","msg":"sender: closed","stream_id":"ck2rh904"}
+{"time":"2024-11-21T00:17:51.904607402-05:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"ck2rh904"}}
+{"time":"2024-11-21T00:17:51.90590909-05:00","level":"INFO","msg":"stream: closed","id":"ck2rh904"}

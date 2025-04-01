@@ -1,0 +1,19 @@
+{"time":"2025-02-06T18:42:03.172881244-05:00","level":"INFO","msg":"using version","core version":"0.18.6"}
+{"time":"2025-02-06T18:42:03.172933137-05:00","level":"INFO","msg":"created symlink","path":"/home/al2644/research/codebase/knowledge_update/training/wandb/run-20250206_184203-32ni77yx/logs/debug-core.log"}
+{"time":"2025-02-06T18:42:03.299559261-05:00","level":"INFO","msg":"created new stream","id":"32ni77yx"}
+{"time":"2025-02-06T18:42:03.299617893-05:00","level":"INFO","msg":"stream: started","id":"32ni77yx"}
+{"time":"2025-02-06T18:42:03.29977187-05:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"32ni77yx"}}
+{"time":"2025-02-06T18:42:03.299895553-05:00","level":"INFO","msg":"handler: started","stream_id":{"value":"32ni77yx"}}
+{"time":"2025-02-06T18:42:03.300079629-05:00","level":"INFO","msg":"sender: started","stream_id":"32ni77yx"}
+{"time":"2025-02-06T18:42:03.544600232-05:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-06T19:10:55.899772658-05:00","level":"INFO","msg":"stream: closing","id":"32ni77yx"}
+{"time":"2025-02-06T19:10:55.89995325-05:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-06T19:10:55.90099663-05:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-06T19:10:56.125151839-05:00","level":"WARN","msg":"No job ingredients found, not creating job artifact"}
+{"time":"2025-02-06T19:10:56.125171302-05:00","level":"WARN","msg":"No source type found, not creating job artifact"}
+{"time":"2025-02-06T19:10:56.125176113-05:00","level":"INFO","msg":"sender: sendDefer: no job artifact to save"}
+{"time":"2025-02-06T19:10:56.24671997-05:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-02-06T19:10:56.517109599-05:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"32ni77yx"}}
+{"time":"2025-02-06T19:10:56.517210625-05:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"32ni77yx"}}
+{"time":"2025-02-06T19:10:56.517259112-05:00","level":"INFO","msg":"sender: closed","stream_id":"32ni77yx"}
+{"time":"2025-02-06T19:10:56.519093305-05:00","level":"INFO","msg":"stream: closed","id":"32ni77yx"}

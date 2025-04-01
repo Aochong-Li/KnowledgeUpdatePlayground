@@ -1,0 +1,112 @@
+                                                                                                                                                      
+{'loss': 2.2517, 'grad_norm': 2.3641045093536377, 'learning_rate': 4.950495049504951e-08, 'epoch': 0.0}
+{'loss': 2.2945, 'grad_norm': 3.6184723377227783, 'learning_rate': 9.900990099009901e-08, 'epoch': 0.0}
+{'loss': 2.0386, 'grad_norm': 2.6331262588500977, 'learning_rate': 1.4851485148514852e-07, 'epoch': 0.0}
+{'loss': 2.3182, 'grad_norm': 11.28150749206543, 'learning_rate': 1.9801980198019803e-07, 'epoch': 0.0}
+{'loss': 2.1608, 'grad_norm': 2.318316698074341, 'learning_rate': 2.4752475247524754e-07, 'epoch': 0.0}
+{'loss': 2.2072, 'grad_norm': 2.9874355792999268, 'learning_rate': 2.9702970297029703e-07, 'epoch': 0.0}
+{'loss': 2.3051, 'grad_norm': 2.5533177852630615, 'learning_rate': 3.4653465346534657e-07, 'epoch': 0.0}
+{'loss': 2.2694, 'grad_norm': 2.6205220222473145, 'learning_rate': 3.9603960396039606e-07, 'epoch': 0.0}
+{'loss': 2.3445, 'grad_norm': 2.8805902004241943, 'learning_rate': 4.4554455445544555e-07, 'epoch': 0.0}
+{'loss': 2.1834, 'grad_norm': 5.0004730224609375, 'learning_rate': 4.950495049504951e-07, 'epoch': 0.0}
+{'loss': 2.3888, 'grad_norm': 2.5641441345214844, 'learning_rate': 5.445544554455446e-07, 'epoch': 0.01}
+{'loss': 2.3713, 'grad_norm': 7.499902248382568, 'learning_rate': 5.940594059405941e-07, 'epoch': 0.01}
+{'loss': 2.3344, 'grad_norm': 2.5950777530670166, 'learning_rate': 6.435643564356436e-07, 'epoch': 0.01}
+{'loss': 2.363, 'grad_norm': 4.113544940948486, 'learning_rate': 6.930693069306931e-07, 'epoch': 0.01}
+{'loss': 2.3073, 'grad_norm': 2.4491729736328125, 'learning_rate': 7.425742574257426e-07, 'epoch': 0.01}
+{'loss': 2.3097, 'grad_norm': 2.7683396339416504, 'learning_rate': 7.920792079207921e-07, 'epoch': 0.01}
+{'loss': 2.2797, 'grad_norm': 2.8304524421691895, 'learning_rate': 8.415841584158417e-07, 'epoch': 0.01}
+{'loss': 2.3072, 'grad_norm': 3.2783589363098145, 'learning_rate': 8.910891089108911e-07, 'epoch': 0.01}
+{'loss': 2.2237, 'grad_norm': 2.6563565731048584, 'learning_rate': 9.405940594059406e-07, 'epoch': 0.01}
+{'loss': 2.2813, 'grad_norm': 2.4933698177337646, 'learning_rate': 9.900990099009902e-07, 'epoch': 0.01}
+{'loss': 2.2622, 'grad_norm': 2.6023857593536377, 'learning_rate': 1.0396039603960397e-06, 'epoch': 0.01}
+{'loss': 2.2352, 'grad_norm': 2.3815269470214844, 'learning_rate': 1.0891089108910893e-06, 'epoch': 0.01}
+{'loss': 2.3132, 'grad_norm': 3.019350528717041, 'learning_rate': 1.1386138613861388e-06, 'epoch': 0.01}
+{'loss': 2.1014, 'grad_norm': 3.016472101211548, 'learning_rate': 1.1881188118811881e-06, 'epoch': 0.01}
+{'loss': 2.1935, 'grad_norm': 2.4248108863830566, 'learning_rate': 1.2376237623762377e-06, 'epoch': 0.01}
+{'loss': 2.2479, 'grad_norm': 1.9912564754486084, 'learning_rate': 1.2871287128712872e-06, 'epoch': 0.01}
+{'loss': 2.2311, 'grad_norm': 2.3718771934509277, 'learning_rate': 1.3366336633663367e-06, 'epoch': 0.01}
+{'loss': 2.2597, 'grad_norm': 2.4553909301757812, 'learning_rate': 1.3861386138613863e-06, 'epoch': 0.01}
+{'loss': 2.3454, 'grad_norm': 2.459618091583252, 'learning_rate': 1.4356435643564356e-06, 'epoch': 0.01}
+{'loss': 2.1957, 'grad_norm': 2.1770243644714355, 'learning_rate': 1.4851485148514852e-06, 'epoch': 0.01}
+{'loss': 2.2126, 'grad_norm': 2.005612850189209, 'learning_rate': 1.5346534653465347e-06, 'epoch': 0.02}
+{'loss': 2.3283, 'grad_norm': 1.9541635513305664, 'learning_rate': 1.5841584158415842e-06, 'epoch': 0.02}
+{'loss': 2.2078, 'grad_norm': 3.1310033798217773, 'learning_rate': 1.6336633663366338e-06, 'epoch': 0.02}
+{'loss': 2.2094, 'grad_norm': 2.098973274230957, 'learning_rate': 1.6831683168316833e-06, 'epoch': 0.02}
+{'loss': 2.2697, 'grad_norm': 2.0131077766418457, 'learning_rate': 1.7326732673267326e-06, 'epoch': 0.02}
+{'loss': 2.3777, 'grad_norm': 1.8617362976074219, 'learning_rate': 1.7821782178217822e-06, 'epoch': 0.02}
+{'loss': 2.1682, 'grad_norm': 2.5793464183807373, 'learning_rate': 1.8316831683168317e-06, 'epoch': 0.02}
+{'loss': 2.2368, 'grad_norm': 1.960837483406067, 'learning_rate': 1.8811881188118813e-06, 'epoch': 0.02}
+{'loss': 2.2749, 'grad_norm': 1.9744925498962402, 'learning_rate': 1.930693069306931e-06, 'epoch': 0.02}
+{'loss': 2.2736, 'grad_norm': 1.8981431722640991, 'learning_rate': 1.9801980198019803e-06, 'epoch': 0.02}
+{'loss': 2.2044, 'grad_norm': 1.8296740055084229, 'learning_rate': 2.02970297029703e-06, 'epoch': 0.02}
+{'loss': 2.09, 'grad_norm': 1.9990020990371704, 'learning_rate': 2.0792079207920794e-06, 'epoch': 0.02}
+{'loss': 2.3174, 'grad_norm': 3.102440595626831, 'learning_rate': 2.1287128712871288e-06, 'epoch': 0.02}
+{'loss': 2.1407, 'grad_norm': 2.1673758029937744, 'learning_rate': 2.1782178217821785e-06, 'epoch': 0.02}
+{'loss': 2.3478, 'grad_norm': 2.1771163940429688, 'learning_rate': 2.227722772277228e-06, 'epoch': 0.02}
+{'loss': 2.2257, 'grad_norm': 1.8547296524047852, 'learning_rate': 2.2772277227722776e-06, 'epoch': 0.02}
+{'loss': 2.3253, 'grad_norm': 1.886130690574646, 'learning_rate': 2.326732673267327e-06, 'epoch': 0.02}
+{'loss': 2.105, 'grad_norm': 1.7063051462173462, 'learning_rate': 2.3762376237623762e-06, 'epoch': 0.02}
+{'loss': 2.19, 'grad_norm': 1.7933354377746582, 'learning_rate': 2.425742574257426e-06, 'epoch': 0.02}
+{'loss': 2.0344, 'grad_norm': 1.7767184972763062, 'learning_rate': 2.4752475247524753e-06, 'epoch': 0.02}
+{'loss': 2.1914, 'grad_norm': 2.8882830142974854, 'learning_rate': 2.524752475247525e-06, 'epoch': 0.03}
+{'loss': 2.1645, 'grad_norm': 1.9529637098312378, 'learning_rate': 2.5742574257425744e-06, 'epoch': 0.03}
+{'loss': 2.2264, 'grad_norm': 1.6970256567001343, 'learning_rate': 2.623762376237624e-06, 'epoch': 0.03}
+{'loss': 2.325, 'grad_norm': 1.725661277770996, 'learning_rate': 2.6732673267326735e-06, 'epoch': 0.03}
+{'loss': 2.211, 'grad_norm': 1.5912551879882812, 'learning_rate': 2.7227722772277232e-06, 'epoch': 0.03}
+{'loss': 2.1886, 'grad_norm': 1.8391212224960327, 'learning_rate': 2.7722772277227726e-06, 'epoch': 0.03}
+{'loss': 2.2126, 'grad_norm': 1.808027982711792, 'learning_rate': 2.821782178217822e-06, 'epoch': 0.03}
+{'loss': 2.153, 'grad_norm': 1.8849306106567383, 'learning_rate': 2.8712871287128712e-06, 'epoch': 0.03}
+{'loss': 2.2392, 'grad_norm': 1.823355793952942, 'learning_rate': 2.920792079207921e-06, 'epoch': 0.03}
+{'loss': 2.2397, 'grad_norm': 1.7218828201293945, 'learning_rate': 2.9702970297029703e-06, 'epoch': 0.03}
+{'loss': 2.1916, 'grad_norm': 2.174302101135254, 'learning_rate': 3.01980198019802e-06, 'epoch': 0.03}
+{'loss': 2.1253, 'grad_norm': 1.919264554977417, 'learning_rate': 3.0693069306930694e-06, 'epoch': 0.03}
+{'loss': 2.0609, 'grad_norm': 1.6210381984710693, 'learning_rate': 3.118811881188119e-06, 'epoch': 0.03}
+{'loss': 2.2423, 'grad_norm': 1.8274940252304077, 'learning_rate': 3.1683168316831685e-06, 'epoch': 0.03}
+{'loss': 2.2344, 'grad_norm': 1.6125068664550781, 'learning_rate': 3.2178217821782182e-06, 'epoch': 0.03}
+{'loss': 2.1485, 'grad_norm': 1.654410481452942, 'learning_rate': 3.2673267326732676e-06, 'epoch': 0.03}
+  File "/home/al2644/research/codebase/knowledge_update/training/train.py", line 58, in <module>
+    train()
+  File "/home/al2644/research/codebase/knowledge_update/training/train.py", line 52, in train
+    trainer.train()
+  File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/transformers/trainer.py", line 1938, in train
+    return inner_training_loop(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/transformers/trainer.py", line 2279, in _inner_training_loop
+    tr_loss_step = self.training_step(model, inputs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/transformers/trainer.py", line 3349, in training_step
+    self.accelerator.backward(loss, **kwargs)
+  File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/accelerate/accelerator.py", line 2241, in backward
+    loss.backward(**kwargs)
+  File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/torch/_tensor.py", line 521, in backward
+    torch.autograd.backward(
+  File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/torch/autograd/__init__.py", line 289, in backward
+    _engine_run_backward(
+  File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/torch/autograd/graph.py", line 768, in _engine_run_backward
+    return Variable._execution_engine.run_backward(  # Calls into the C++ engine to run the backward pass
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt
+[rank0]: Traceback (most recent call last):
+[rank0]:   File "/home/al2644/research/codebase/knowledge_update/training/train.py", line 58, in <module>
+[rank0]:     train()
+[rank0]:   File "/home/al2644/research/codebase/knowledge_update/training/train.py", line 52, in train
+[rank0]:     trainer.train()
+[rank0]:   File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/transformers/trainer.py", line 1938, in train
+[rank0]:     return inner_training_loop(
+[rank0]:            ^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/transformers/trainer.py", line 2279, in _inner_training_loop
+[rank0]:     tr_loss_step = self.training_step(model, inputs)
+[rank0]:                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/transformers/trainer.py", line 3349, in training_step
+[rank0]:     self.accelerator.backward(loss, **kwargs)
+[rank0]:   File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/accelerate/accelerator.py", line 2241, in backward
+[rank0]:     loss.backward(**kwargs)
+[rank0]:   File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/torch/_tensor.py", line 521, in backward
+[rank0]:     torch.autograd.backward(
+[rank0]:   File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/torch/autograd/__init__.py", line 289, in backward
+[rank0]:     _engine_run_backward(
+[rank0]:   File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/torch/autograd/graph.py", line 768, in _engine_run_backward
+[rank0]:     return Variable._execution_engine.run_backward(  # Calls into the C++ engine to run the backward pass
+[rank0]:            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]: KeyboardInterrupt

@@ -1,0 +1,62 @@
+  0%|                                                                                                                                                                 | 0/1851 [00:00<?, ?it/s]`use_cache=True` is incompatible with gradient checkpointing. Setting `use_cache=False`.
+/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/torch/_dynamo/eval_frame.py:600: UserWarning: torch.utils.checkpoint: the use_reentrant parameter should be passed explicitly. In version 2.4 we will raise an exception if use_reentrant is not passed. use_reentrant=False is recommended, but if you need to preserve the current default behavior, you can pass use_reentrant=True. Refer to docs for more details on the differences between the two variants.
+  return fn(*args, **kwargs)
+  1%|▉                                                                                                                                                     | 12/1851 [00:59<2:32:42,  4.98s/it]Traceback (most recent call last):
+{'loss': 1.9974, 'grad_norm': 4.4811835289001465, 'learning_rate': 5.376344086021506e-08, 'epoch': 0.0}
+{'loss': 2.051, 'grad_norm': 3.8557522296905518, 'learning_rate': 1.0752688172043012e-07, 'epoch': 0.0}
+{'loss': 2.1137, 'grad_norm': 5.732773303985596, 'learning_rate': 1.6129032258064518e-07, 'epoch': 0.0}
+{'loss': 2.0854, 'grad_norm': 3.4975051879882812, 'learning_rate': 2.1505376344086024e-07, 'epoch': 0.0}
+{'loss': 2.2049, 'grad_norm': 4.578334331512451, 'learning_rate': 2.688172043010753e-07, 'epoch': 0.0}
+{'loss': 2.2138, 'grad_norm': 4.840440273284912, 'learning_rate': 3.2258064516129035e-07, 'epoch': 0.0}
+{'loss': 2.1023, 'grad_norm': 4.03157377243042, 'learning_rate': 3.763440860215054e-07, 'epoch': 0.0}
+{'loss': 2.0586, 'grad_norm': 4.180777549743652, 'learning_rate': 4.301075268817205e-07, 'epoch': 0.0}
+{'loss': 2.0207, 'grad_norm': 4.581113815307617, 'learning_rate': 4.838709677419355e-07, 'epoch': 0.0}
+{'loss': 2.109, 'grad_norm': 5.627236843109131, 'learning_rate': 5.376344086021506e-07, 'epoch': 0.01}
+{'loss': 2.162, 'grad_norm': 5.229018688201904, 'learning_rate': 5.913978494623656e-07, 'epoch': 0.01}
+{'loss': 1.9924, 'grad_norm': 4.334543704986572, 'learning_rate': 6.451612903225807e-07, 'epoch': 0.01}
+  File "/home/al2644/research/codebase/knowledge_update/training/train.py", line 75, in <module>
+  File "/home/al2644/research/codebase/knowledge_update/training/train.py", line 69, in train
+    trainer = transformers.Trainer(model=model, args=args, **data_module)
+    ^^^^^^^^^^^^^^^
+  File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/transformers/trainer.py", line 1938, in train
+    return inner_training_loop(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/transformers/trainer.py", line 2279, in _inner_training_loop
+    tr_loss_step = self.training_step(model, inputs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/transformers/trainer.py", line 3349, in training_step
+    self.accelerator.backward(loss, **kwargs)
+  File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/accelerate/accelerator.py", line 2241, in backward
+    loss.backward(**kwargs)
+  File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/torch/_tensor.py", line 521, in backward
+    torch.autograd.backward(
+  File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/torch/autograd/__init__.py", line 289, in backward
+    _engine_run_backward(
+  File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/torch/autograd/graph.py", line 768, in _engine_run_backward
+    return Variable._execution_engine.run_backward(  # Calls into the C++ engine to run the backward pass
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt
+[rank0]: Traceback (most recent call last):
+[rank0]:   File "/home/al2644/research/codebase/knowledge_update/training/train.py", line 75, in <module>
+[rank0]:
+[rank0]:   File "/home/al2644/research/codebase/knowledge_update/training/train.py", line 69, in train
+[rank0]:     trainer = transformers.Trainer(model=model, args=args, **data_module)
+[rank0]: ^^^^^^^^^^^^^^^
+[rank0]:   File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/transformers/trainer.py", line 1938, in train
+[rank0]:     return inner_training_loop(
+[rank0]:            ^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/transformers/trainer.py", line 2279, in _inner_training_loop
+[rank0]:     tr_loss_step = self.training_step(model, inputs)
+[rank0]:                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/transformers/trainer.py", line 3349, in training_step
+[rank0]:     self.accelerator.backward(loss, **kwargs)
+[rank0]:   File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/accelerate/accelerator.py", line 2241, in backward
+[rank0]:     loss.backward(**kwargs)
+[rank0]:   File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/torch/_tensor.py", line 521, in backward
+[rank0]:     torch.autograd.backward(
+[rank0]:   File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/torch/autograd/__init__.py", line 289, in backward
+[rank0]:     _engine_run_backward(
+[rank0]:   File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/torch/autograd/graph.py", line 768, in _engine_run_backward
+[rank0]:     return Variable._execution_engine.run_backward(  # Calls into the C++ engine to run the backward pass
+[rank0]:            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]: KeyboardInterrupt

@@ -1,0 +1,19 @@
+{"time":"2025-02-13T22:55:52.764865724-05:00","level":"INFO","msg":"using version","core version":"0.18.6"}
+{"time":"2025-02-13T22:55:52.764889427-05:00","level":"INFO","msg":"created symlink","path":"/home/al2644/research/codebase/knowledge_update/training/wandb/run-20250213_225552-pl17e6ti/logs/debug-core.log"}
+{"time":"2025-02-13T22:55:52.781842442-05:00","level":"INFO","msg":"created new stream","id":"pl17e6ti"}
+{"time":"2025-02-13T22:55:52.781878384-05:00","level":"INFO","msg":"stream: started","id":"pl17e6ti"}
+{"time":"2025-02-13T22:55:52.781938613-05:00","level":"INFO","msg":"sender: started","stream_id":"pl17e6ti"}
+{"time":"2025-02-13T22:55:52.781915859-05:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"pl17e6ti"}}
+{"time":"2025-02-13T22:55:52.781960572-05:00","level":"INFO","msg":"handler: started","stream_id":{"value":"pl17e6ti"}}
+{"time":"2025-02-13T22:55:52.977335054-05:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-14T00:43:30.459080407-05:00","level":"INFO","msg":"stream: closing","id":"pl17e6ti"}
+{"time":"2025-02-14T00:43:30.459280057-05:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-14T00:43:30.459399943-05:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-14T00:43:31.220796112-05:00","level":"WARN","msg":"No job ingredients found, not creating job artifact"}
+{"time":"2025-02-14T00:43:31.220828347-05:00","level":"WARN","msg":"No source type found, not creating job artifact"}
+{"time":"2025-02-14T00:43:31.220834998-05:00","level":"INFO","msg":"sender: sendDefer: no job artifact to save"}
+{"time":"2025-02-14T00:43:31.493672529-05:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-02-14T00:43:31.61258251-05:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"pl17e6ti"}}
+{"time":"2025-02-14T00:43:31.612651466-05:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"pl17e6ti"}}
+{"time":"2025-02-14T00:43:31.612675262-05:00","level":"INFO","msg":"sender: closed","stream_id":"pl17e6ti"}
+{"time":"2025-02-14T00:43:31.614459413-05:00","level":"INFO","msg":"stream: closed","id":"pl17e6ti"}

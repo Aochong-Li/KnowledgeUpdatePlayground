@@ -1,0 +1,21 @@
+{"time":"2025-02-04T01:54:00.034467119-05:00","level":"INFO","msg":"using version","core version":"0.18.6"}
+{"time":"2025-02-04T01:54:00.034491222-05:00","level":"INFO","msg":"created symlink","path":"/home/al2644/research/codebase/knowledge_update/training/wandb/run-20250204_015359-dpkl5uyo/logs/debug-core.log"}
+{"time":"2025-02-04T01:54:00.272024614-05:00","level":"INFO","msg":"created new stream","id":"dpkl5uyo"}
+{"time":"2025-02-04T01:54:00.272060919-05:00","level":"INFO","msg":"stream: started","id":"dpkl5uyo"}
+{"time":"2025-02-04T01:54:00.272083251-05:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"dpkl5uyo"}}
+{"time":"2025-02-04T01:54:00.272124934-05:00","level":"INFO","msg":"sender: started","stream_id":"dpkl5uyo"}
+{"time":"2025-02-04T01:54:00.272114715-05:00","level":"INFO","msg":"handler: started","stream_id":{"value":"dpkl5uyo"}}
+{"time":"2025-02-04T01:54:00.548581316-05:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-04T04:07:01.353964422-05:00","level":"INFO","msg":"stream: closing","id":"dpkl5uyo"}
+{"time":"2025-02-04T04:07:01.355009045-05:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-04T04:07:02.538727015-05:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-04T04:07:04.957927251-05:00","level":"WARN","msg":"No job ingredients found, not creating job artifact"}
+{"time":"2025-02-04T04:07:04.958437616-05:00","level":"WARN","msg":"No source type found, not creating job artifact"}
+{"time":"2025-02-04T04:07:04.958449893-05:00","level":"INFO","msg":"sender: sendDefer: no job artifact to save"}
+{"time":"2025-02-04T04:07:05.251261704-05:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-02-04T04:07:05.385041439-05:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"dpkl5uyo"}}
+{"time":"2025-02-04T04:07:05.385117035-05:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"dpkl5uyo"}}
+{"time":"2025-02-04T04:07:05.385141302-05:00","level":"INFO","msg":"sender: closed","stream_id":"dpkl5uyo"}
+{"time":"2025-02-04T04:07:05.38697902-05:00","level":"INFO","msg":"stream: closed","id":"dpkl5uyo"}
+{"time":"2025-02-04T04:07:05.388544888-05:00","level":"WARN","msg":"runwork: ignoring record after close","work":{"Record":{"RecordType":{"Request":{"RequestType":{"Keepalive":{}}}},"control":{"local":true,"connection_id":"127.0.0.1:46062"},"_info":{"stream_id":"dpkl5uyo"}}}}
+{"time":"2025-02-04T04:07:05.389885624-05:00","level":"WARN","msg":"runwork: ignoring record after close","work":{"Record":{"RecordType":{"Request":{"RequestType":{"InternalMessages":{}}}},"control":{"local":true,"mailbox_slot":"jhpcvcop0iov","connection_id":"127.0.0.1:46062"},"_info":{"stream_id":"dpkl5uyo"}}}}

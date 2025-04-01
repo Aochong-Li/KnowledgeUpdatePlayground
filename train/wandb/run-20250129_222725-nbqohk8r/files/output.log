@@ -1,0 +1,295 @@
+                                                                                                                                                                                               
+{'loss': 2.0943, 'grad_norm': 6.954926013946533, 'learning_rate': 5.1546391752577325e-08, 'epoch': 0.0}
+{'loss': 312.2782, 'grad_norm': 1538.220703125, 'learning_rate': 1.0309278350515465e-07, 'epoch': 0.0}
+{'loss': 299.1891, 'grad_norm': 3652.399169921875, 'learning_rate': 1.5463917525773197e-07, 'epoch': 0.0}
+{'loss': 2.0781, 'grad_norm': 3.711904764175415, 'learning_rate': 2.061855670103093e-07, 'epoch': 0.0}
+{'loss': 1.9471, 'grad_norm': 5.492641925811768, 'learning_rate': 2.577319587628866e-07, 'epoch': 0.0}
+{'loss': 609.37, 'grad_norm': 8600.830078125, 'learning_rate': 3.0927835051546394e-07, 'epoch': 0.0}
+{'loss': 604.68, 'grad_norm': 2515.224853515625, 'learning_rate': 3.608247422680412e-07, 'epoch': 0.0}
+{'loss': 2.1249, 'grad_norm': 6.378755569458008, 'learning_rate': 4.123711340206186e-07, 'epoch': 0.0}
+{'loss': 2.1526, 'grad_norm': 8.799544334411621, 'learning_rate': 4.6391752577319593e-07, 'epoch': 0.0}
+{'loss': 305.0373, 'grad_norm': 1982.5283203125, 'learning_rate': 5.154639175257732e-07, 'epoch': 0.01}
+{'loss': 597.6478, 'grad_norm': 4038.21435546875, 'learning_rate': 5.670103092783505e-07, 'epoch': 0.01}
+{'loss': 588.454, 'grad_norm': 2835.5791015625, 'learning_rate': 6.185567010309279e-07, 'epoch': 0.01}
+{'loss': 580.6276, 'grad_norm': 3694.503173828125, 'learning_rate': 6.701030927835052e-07, 'epoch': 0.01}
+{'loss': 2.1462, 'grad_norm': 4.876469135284424, 'learning_rate': 7.216494845360824e-07, 'epoch': 0.01}
+{'loss': 607.5044, 'grad_norm': 3389.113037109375, 'learning_rate': 7.731958762886599e-07, 'epoch': 0.01}
+{'loss': 1176.3427, 'grad_norm': 4014.4208984375, 'learning_rate': 8.247422680412372e-07, 'epoch': 0.01}
+{'loss': 2.1367, 'grad_norm': 7.465267181396484, 'learning_rate': 8.762886597938144e-07, 'epoch': 0.01}
+{'loss': 303.3058, 'grad_norm': 1922.24267578125, 'learning_rate': 9.278350515463919e-07, 'epoch': 0.01}
+{'loss': 282.8444, 'grad_norm': 1333.550048828125, 'learning_rate': 9.793814432989692e-07, 'epoch': 0.01}
+{'loss': 290.5887, 'grad_norm': 2691.94921875, 'learning_rate': 1.0309278350515464e-06, 'epoch': 0.01}
+{'loss': 297.2926, 'grad_norm': 1239.2728271484375, 'learning_rate': 1.0824742268041239e-06, 'epoch': 0.01}
+{'loss': 1.9345, 'grad_norm': 7.023449420928955, 'learning_rate': 1.134020618556701e-06, 'epoch': 0.01}
+{'loss': 283.7237, 'grad_norm': 9456.02734375, 'learning_rate': 1.1855670103092783e-06, 'epoch': 0.01}
+{'loss': 613.7808, 'grad_norm': 4485.17626953125, 'learning_rate': 1.2371134020618557e-06, 'epoch': 0.01}
+{'loss': 593.9299, 'grad_norm': 4209.93701171875, 'learning_rate': 1.288659793814433e-06, 'epoch': 0.01}
+{'loss': 1.9934, 'grad_norm': 3.44065523147583, 'learning_rate': 1.3402061855670104e-06, 'epoch': 0.01}
+{'loss': 291.8076, 'grad_norm': 7901.181640625, 'learning_rate': 1.3917525773195878e-06, 'epoch': 0.01}
+{'loss': 283.1723, 'grad_norm': 3021.384521484375, 'learning_rate': 1.4432989690721649e-06, 'epoch': 0.01}
+{'loss': 279.3089, 'grad_norm': 1454.4019775390625, 'learning_rate': 1.4948453608247423e-06, 'epoch': 0.01}
+{'loss': 2.0549, 'grad_norm': 9.357085227966309, 'learning_rate': 1.5463917525773197e-06, 'epoch': 0.02}
+{'loss': 589.1223, 'grad_norm': 1759.737060546875, 'learning_rate': 1.597938144329897e-06, 'epoch': 0.02}
+{'loss': 561.2305, 'grad_norm': 2015.3194580078125, 'learning_rate': 1.6494845360824744e-06, 'epoch': 0.02}
+{'loss': 547.9583, 'grad_norm': 2160.385498046875, 'learning_rate': 1.7010309278350518e-06, 'epoch': 0.02}
+{'loss': 296.419, 'grad_norm': 1661.7840576171875, 'learning_rate': 1.7525773195876288e-06, 'epoch': 0.02}
+{'loss': 552.007, 'grad_norm': 2705.0966796875, 'learning_rate': 1.8041237113402063e-06, 'epoch': 0.02}
+{'loss': 2.0309, 'grad_norm': 4.1093854904174805, 'learning_rate': 1.8556701030927837e-06, 'epoch': 0.02}
+{'loss': 1080.9724, 'grad_norm': 2626.035888671875, 'learning_rate': 1.907216494845361e-06, 'epoch': 0.02}
+{'loss': 255.7718, 'grad_norm': 1426.511962890625, 'learning_rate': 1.9587628865979384e-06, 'epoch': 0.02}
+{'loss': 302.1101, 'grad_norm': 1130.487060546875, 'learning_rate': 2.010309278350516e-06, 'epoch': 0.02}
+{'loss': 274.0402, 'grad_norm': 1068.451904296875, 'learning_rate': 2.061855670103093e-06, 'epoch': 0.02}
+{'loss': 288.2876, 'grad_norm': 1061.284423828125, 'learning_rate': 2.1134020618556703e-06, 'epoch': 0.02}
+{'loss': 1.9914, 'grad_norm': 3.648902416229248, 'learning_rate': 2.1649484536082477e-06, 'epoch': 0.02}
+{'loss': 264.8214, 'grad_norm': 988.5071411132812, 'learning_rate': 2.2164948453608247e-06, 'epoch': 0.02}
+{'loss': 251.9316, 'grad_norm': 1078.2373046875, 'learning_rate': 2.268041237113402e-06, 'epoch': 0.02}
+{'loss': 283.0958, 'grad_norm': 1043.4049072265625, 'learning_rate': 2.3195876288659796e-06, 'epoch': 0.02}
+{'loss': 2.0505, 'grad_norm': 3.573126792907715, 'learning_rate': 2.3711340206185566e-06, 'epoch': 0.02}
+{'loss': 1.8901, 'grad_norm': 3.376857280731201, 'learning_rate': 2.422680412371134e-06, 'epoch': 0.02}
+{'loss': 1620.9675, 'grad_norm': 2956.194580078125, 'learning_rate': 2.4742268041237115e-06, 'epoch': 0.02}
+{'loss': 2.0643, 'grad_norm': 3.830824851989746, 'learning_rate': 2.525773195876289e-06, 'epoch': 0.03}
+{'loss': 1051.4618, 'grad_norm': 2377.19677734375, 'learning_rate': 2.577319587628866e-06, 'epoch': 0.03}
+{'loss': 817.779, 'grad_norm': 1935.978271484375, 'learning_rate': 2.628865979381444e-06, 'epoch': 0.03}
+{'loss': 559.2058, 'grad_norm': 1467.8948974609375, 'learning_rate': 2.680412371134021e-06, 'epoch': 0.03}
+{'loss': 1.8491, 'grad_norm': 2.3118765354156494, 'learning_rate': 2.731958762886598e-06, 'epoch': 0.03}
+{'loss': 551.7484, 'grad_norm': 1455.500244140625, 'learning_rate': 2.7835051546391757e-06, 'epoch': 0.03}
+{'loss': 264.1781, 'grad_norm': 1236.3035888671875, 'learning_rate': 2.8350515463917527e-06, 'epoch': 0.03}
+{'loss': 2.0558, 'grad_norm': 3.019652843475342, 'learning_rate': 2.8865979381443297e-06, 'epoch': 0.03}
+{'loss': 2.0723, 'grad_norm': 2.5124738216400146, 'learning_rate': 2.9381443298969076e-06, 'epoch': 0.03}
+{'loss': 790.5751, 'grad_norm': 1909.1380615234375, 'learning_rate': 2.9896907216494846e-06, 'epoch': 0.03}
+{'loss': 270.2055, 'grad_norm': 1075.353759765625, 'learning_rate': 3.041237113402062e-06, 'epoch': 0.03}
+{'loss': 524.3024, 'grad_norm': 1442.590087890625, 'learning_rate': 3.0927835051546395e-06, 'epoch': 0.03}
+{'loss': 293.3681, 'grad_norm': 1126.4932861328125, 'learning_rate': 3.1443298969072165e-06, 'epoch': 0.03}
+{'loss': 560.8533, 'grad_norm': 1526.0272216796875, 'learning_rate': 3.195876288659794e-06, 'epoch': 0.03}
+{'loss': 1.9813, 'grad_norm': 2.2295680046081543, 'learning_rate': 3.2474226804123714e-06, 'epoch': 0.03}
+{'loss': 796.6931, 'grad_norm': 1913.161865234375, 'learning_rate': 3.298969072164949e-06, 'epoch': 0.03}
+{'loss': 272.6251, 'grad_norm': 1027.273193359375, 'learning_rate': 3.350515463917526e-06, 'epoch': 0.03}
+{'loss': 247.7861, 'grad_norm': 951.7606201171875, 'learning_rate': 3.4020618556701037e-06, 'epoch': 0.03}
+{'loss': 516.4227, 'grad_norm': 1478.2095947265625, 'learning_rate': 3.4536082474226807e-06, 'epoch': 0.03}
+{'loss': 526.3269, 'grad_norm': 1379.61767578125, 'learning_rate': 3.5051546391752577e-06, 'epoch': 0.04}
+{'loss': 782.1872, 'grad_norm': 1751.812744140625, 'learning_rate': 3.5567010309278356e-06, 'epoch': 0.04}
+{'loss': 1059.7676, 'grad_norm': 2319.636962890625, 'learning_rate': 3.6082474226804126e-06, 'epoch': 0.04}
+{'loss': 2.027, 'grad_norm': 2.3765149116516113, 'learning_rate': 3.6597938144329896e-06, 'epoch': 0.04}
+{'loss': 1.6074, 'grad_norm': 2.4414970874786377, 'learning_rate': 3.7113402061855674e-06, 'epoch': 0.04}
+{'loss': 279.8365, 'grad_norm': 950.285888671875, 'learning_rate': 3.7628865979381445e-06, 'epoch': 0.04}
+{'loss': 253.5659, 'grad_norm': 1054.3988037109375, 'learning_rate': 3.814432989690722e-06, 'epoch': 0.04}
+{'loss': 1.894, 'grad_norm': 2.9573583602905273, 'learning_rate': 3.865979381443299e-06, 'epoch': 0.04}
+{'loss': 268.031, 'grad_norm': 1002.9317016601562, 'learning_rate': 3.917525773195877e-06, 'epoch': 0.04}
+{'loss': 537.0231, 'grad_norm': 1441.049560546875, 'learning_rate': 3.969072164948453e-06, 'epoch': 0.04}
+{'loss': 2.0697, 'grad_norm': 2.49604868888855, 'learning_rate': 4.020618556701032e-06, 'epoch': 0.04}
+{'loss': 2.0472, 'grad_norm': 2.523324728012085, 'learning_rate': 4.072164948453608e-06, 'epoch': 0.04}
+{'loss': 1.9378, 'grad_norm': 2.3898534774780273, 'learning_rate': 4.123711340206186e-06, 'epoch': 0.04}
+{'loss': 1.9686, 'grad_norm': 2.3573973178863525, 'learning_rate': 4.175257731958763e-06, 'epoch': 0.04}
+{'loss': 266.7647, 'grad_norm': 1093.6463623046875, 'learning_rate': 4.2268041237113405e-06, 'epoch': 0.04}
+{'loss': 529.8765, 'grad_norm': 1543.241455078125, 'learning_rate': 4.278350515463918e-06, 'epoch': 0.04}
+{'loss': 557.2131, 'grad_norm': 1484.74658203125, 'learning_rate': 4.329896907216495e-06, 'epoch': 0.04}
+{'loss': 566.5588, 'grad_norm': 1549.2838134765625, 'learning_rate': 4.381443298969073e-06, 'epoch': 0.04}
+{'loss': 273.4164, 'grad_norm': 976.0794677734375, 'learning_rate': 4.4329896907216494e-06, 'epoch': 0.04}
+{'loss': 514.7037, 'grad_norm': 1714.97216796875, 'learning_rate': 4.484536082474228e-06, 'epoch': 0.04}
+{'loss': 558.4609, 'grad_norm': 1506.466064453125, 'learning_rate': 4.536082474226804e-06, 'epoch': 0.05}
+{'loss': 253.1639, 'grad_norm': 928.7962646484375, 'learning_rate': 4.587628865979382e-06, 'epoch': 0.05}
+{'loss': 1.86, 'grad_norm': 3.524646043777466, 'learning_rate': 4.639175257731959e-06, 'epoch': 0.05}
+{'loss': 259.7624, 'grad_norm': 896.8471069335938, 'learning_rate': 4.690721649484537e-06, 'epoch': 0.05}
+{'loss': 261.7324, 'grad_norm': 912.4120483398438, 'learning_rate': 4.742268041237113e-06, 'epoch': 0.05}
+{'loss': 242.7265, 'grad_norm': 956.0617065429688, 'learning_rate': 4.7938144329896915e-06, 'epoch': 0.05}
+{'loss': 1.8042, 'grad_norm': 2.0891597270965576, 'learning_rate': 4.845360824742268e-06, 'epoch': 0.05}
+{'loss': 509.4644, 'grad_norm': 1390.052734375, 'learning_rate': 4.8969072164948455e-06, 'epoch': 0.05}
+{'loss': 267.4885, 'grad_norm': 953.7528076171875, 'learning_rate': 4.948453608247423e-06, 'epoch': 0.05}
+{'loss': 520.3978, 'grad_norm': 1374.9796142578125, 'learning_rate': 5e-06, 'epoch': 0.05}
+{'loss': 1.797, 'grad_norm': 2.3277199268341064, 'learning_rate': 4.999996367890084e-06, 'epoch': 0.05}
+{'loss': 512.1664, 'grad_norm': 1523.9180908203125, 'learning_rate': 4.99998547157089e-06, 'epoch': 0.05}
+{'loss': 1.8334, 'grad_norm': 5.895728588104248, 'learning_rate': 4.999967311074079e-06, 'epoch': 0.05}
+{'loss': 542.7333, 'grad_norm': 1438.747314453125, 'learning_rate': 4.99994188645242e-06, 'epoch': 0.05}
+{'loss': 271.3162, 'grad_norm': 891.9185180664062, 'learning_rate': 4.999909197779788e-06, 'epoch': 0.05}
+{'loss': 766.6796, 'grad_norm': 1880.4619140625, 'learning_rate': 4.999869245151168e-06, 'epoch': 0.05}
+{'loss': 1.5491, 'grad_norm': 1.9578914642333984, 'learning_rate': 4.999822028682648e-06, 'epoch': 0.05}
+{'loss': 478.4757, 'grad_norm': 1426.8138427734375, 'learning_rate': 4.999767548511425e-06, 'epoch': 0.05}
+{'loss': 269.8748, 'grad_norm': 969.002197265625, 'learning_rate': 4.999705804795802e-06, 'epoch': 0.05}
+{'loss': 242.57, 'grad_norm': 867.0777587890625, 'learning_rate': 4.999636797715186e-06, 'epoch': 0.06}
+{'loss': 271.812, 'grad_norm': 950.0823974609375, 'learning_rate': 4.999560527470091e-06, 'epoch': 0.06}
+{'loss': 780.9012, 'grad_norm': 1906.5023193359375, 'learning_rate': 4.999476994282134e-06, 'epoch': 0.06}
+{'loss': 254.9612, 'grad_norm': 1243.23046875, 'learning_rate': 4.999386198394036e-06, 'epoch': 0.06}
+{'loss': 766.2134, 'grad_norm': 1731.755615234375, 'learning_rate': 4.999288140069622e-06, 'epoch': 0.06}
+{'loss': 525.3645, 'grad_norm': 1472.3660888671875, 'learning_rate': 4.999182819593819e-06, 'epoch': 0.06}
+{'loss': 1.9874, 'grad_norm': 2.476656675338745, 'learning_rate': 4.999070237272655e-06, 'epoch': 0.06}
+{'loss': 541.6982, 'grad_norm': 1307.94482421875, 'learning_rate': 4.99895039343326e-06, 'epoch': 0.06}
+{'loss': 1.8672, 'grad_norm': 3.6257050037384033, 'learning_rate': 4.998823288423861e-06, 'epoch': 0.06}
+{'loss': 273.831, 'grad_norm': 973.20458984375, 'learning_rate': 4.998688922613788e-06, 'epoch': 0.06}
+{'loss': 774.5143, 'grad_norm': 1764.6087646484375, 'learning_rate': 4.998547296393463e-06, 'epoch': 0.06}
+{'loss': 239.4233, 'grad_norm': 903.4942626953125, 'learning_rate': 4.998398410174411e-06, 'epoch': 0.06}
+{'loss': 1.7847, 'grad_norm': 2.0911951065063477, 'learning_rate': 4.998242264389247e-06, 'epoch': 0.06}
+{'loss': 504.5761, 'grad_norm': 1366.9053955078125, 'learning_rate': 4.998078859491682e-06, 'epoch': 0.06}
+{'loss': 503.8163, 'grad_norm': 1360.02783203125, 'learning_rate': 4.997908195956519e-06, 'epoch': 0.06}
+{'loss': 260.2103, 'grad_norm': 992.7297973632812, 'learning_rate': 4.997730274279654e-06, 'epoch': 0.06}
+{'loss': 1.974, 'grad_norm': 2.2310409545898438, 'learning_rate': 4.997545094978073e-06, 'epoch': 0.06}
+{'loss': 269.6791, 'grad_norm': 1263.22265625, 'learning_rate': 4.997352658589846e-06, 'epoch': 0.06}
+{'loss': 262.3383, 'grad_norm': 972.5812377929688, 'learning_rate': 4.9971529656741355e-06, 'epoch': 0.06}
+{'loss': 259.3108, 'grad_norm': 955.64892578125, 'learning_rate': 4.996946016811187e-06, 'epoch': 0.06}
+{'loss': 520.5562, 'grad_norm': 1310.5731201171875, 'learning_rate': 4.996731812602328e-06, 'epoch': 0.07}
+{'loss': 2.1663, 'grad_norm': 2.4675474166870117, 'learning_rate': 4.99651035366997e-06, 'epoch': 0.07}
+{'loss': 275.899, 'grad_norm': 931.1812133789062, 'learning_rate': 4.996281640657603e-06, 'epoch': 0.07}
+{'loss': 2.0483, 'grad_norm': 2.266035795211792, 'learning_rate': 4.996045674229796e-06, 'epoch': 0.07}
+{'loss': 1.8203, 'grad_norm': 2.094073534011841, 'learning_rate': 4.995802455072194e-06, 'epoch': 0.07}
+{'loss': 255.6758, 'grad_norm': 866.2706909179688, 'learning_rate': 4.995551983891515e-06, 'epoch': 0.07}
+{'loss': 1.8288, 'grad_norm': 2.2253189086914062, 'learning_rate': 4.995294261415551e-06, 'epoch': 0.07}
+{'loss': 248.2726, 'grad_norm': 893.120849609375, 'learning_rate': 4.995029288393163e-06, 'epoch': 0.07}
+{'loss': 516.5336, 'grad_norm': 1375.363525390625, 'learning_rate': 4.99475706559428e-06, 'epoch': 0.07}
+  File "/home/al2644/research/codebase/knowledge_update/training/train.py", line 82, in <module>
+    train()
+  File "/home/al2644/research/codebase/knowledge_update/training/train.py", line 76, in train
+    trainer.train()
+  File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/transformers/trainer.py", line 1938, in train
+    return inner_training_loop(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/transformers/trainer.py", line 2279, in _inner_training_loop
+    tr_loss_step = self.training_step(model, inputs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/transformers/trainer.py", line 3318, in training_step
+    loss = self.compute_loss(model, inputs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/al2644/research/codebase/knowledge_update/training/trainers.py", line 28, in compute_loss
+    outputs = model(**inputs)
+              ^^^^^^^^^^^^^^^
+  File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1553, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1562, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/accelerate/utils/operations.py", line 823, in forward
+    return model_forward(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/accelerate/utils/operations.py", line 811, in __call__
+    return convert_to_fp32(self.model_forward(*args, **kwargs))
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/torch/amp/autocast_mode.py", line 43, in decorate_autocast
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/torch/distributed/fsdp/fully_sharded_data_parallel.py", line 863, in forward
+    output = self._fsdp_wrapped_module(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1553, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1562, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/accelerate/utils/operations.py", line 823, in forward
+    return model_forward(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/accelerate/utils/operations.py", line 811, in __call__
+    return convert_to_fp32(self.model_forward(*args, **kwargs))
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/torch/amp/autocast_mode.py", line 43, in decorate_autocast
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/transformers/models/llama/modeling_llama.py", line 1189, in forward
+    outputs = self.model(
+              ^^^^^^^^^^^
+  File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1553, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1562, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/transformers/models/llama/modeling_llama.py", line 1001, in forward
+    layer_outputs = decoder_layer(
+                    ^^^^^^^^^^^^^^
+  File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1553, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1562, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/torch/distributed/fsdp/fully_sharded_data_parallel.py", line 849, in forward
+    args, kwargs = _pre_forward(
+                   ^^^^^^^^^^^^^
+  File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/torch/distributed/fsdp/_runtime_utils.py", line 381, in _pre_forward
+    unshard_fn(state, handle)
+  File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/torch/distributed/fsdp/_runtime_utils.py", line 416, in _pre_forward_unshard
+    _unshard(state, handle, state._unshard_stream, state._pre_unshard_stream)
+  File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/torch/distributed/fsdp/_runtime_utils.py", line 298, in _unshard
+    event.synchronize()
+  File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/torch/cuda/streams.py", line 225, in synchronize
+    super().synchronize()
+KeyboardInterrupt
+[rank0]: Traceback (most recent call last):
+[rank0]:   File "/home/al2644/research/codebase/knowledge_update/training/train.py", line 82, in <module>
+[rank0]:     train()
+[rank0]:   File "/home/al2644/research/codebase/knowledge_update/training/train.py", line 76, in train
+[rank0]:     trainer.train()
+[rank0]:   File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/transformers/trainer.py", line 1938, in train
+[rank0]:     return inner_training_loop(
+[rank0]:            ^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/transformers/trainer.py", line 2279, in _inner_training_loop
+[rank0]:     tr_loss_step = self.training_step(model, inputs)
+[rank0]:                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/transformers/trainer.py", line 3318, in training_step
+[rank0]:     loss = self.compute_loss(model, inputs)
+[rank0]:            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/home/al2644/research/codebase/knowledge_update/training/trainers.py", line 28, in compute_loss
+[rank0]:     outputs = model(**inputs)
+[rank0]:               ^^^^^^^^^^^^^^^
+[rank0]:   File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1553, in _wrapped_call_impl
+[rank0]:     return self._call_impl(*args, **kwargs)
+[rank0]:            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1562, in _call_impl
+[rank0]:     return forward_call(*args, **kwargs)
+[rank0]:            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/accelerate/utils/operations.py", line 823, in forward
+[rank0]:     return model_forward(*args, **kwargs)
+[rank0]:            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/accelerate/utils/operations.py", line 811, in __call__
+[rank0]:     return convert_to_fp32(self.model_forward(*args, **kwargs))
+[rank0]:                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/torch/amp/autocast_mode.py", line 43, in decorate_autocast
+[rank0]:     return func(*args, **kwargs)
+[rank0]:            ^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/torch/distributed/fsdp/fully_sharded_data_parallel.py", line 863, in forward
+[rank0]:     output = self._fsdp_wrapped_module(*args, **kwargs)
+[rank0]:              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1553, in _wrapped_call_impl
+[rank0]:     return self._call_impl(*args, **kwargs)
+[rank0]:            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1562, in _call_impl
+[rank0]:     return forward_call(*args, **kwargs)
+[rank0]:            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/accelerate/utils/operations.py", line 823, in forward
+[rank0]:     return model_forward(*args, **kwargs)
+[rank0]:            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/accelerate/utils/operations.py", line 811, in __call__
+[rank0]:     return convert_to_fp32(self.model_forward(*args, **kwargs))
+[rank0]:                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/torch/amp/autocast_mode.py", line 43, in decorate_autocast
+[rank0]:     return func(*args, **kwargs)
+[rank0]:            ^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/transformers/models/llama/modeling_llama.py", line 1189, in forward
+[rank0]:     outputs = self.model(
+[rank0]:               ^^^^^^^^^^^
+[rank0]:   File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1553, in _wrapped_call_impl
+[rank0]:     return self._call_impl(*args, **kwargs)
+[rank0]:            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1562, in _call_impl
+[rank0]:     return forward_call(*args, **kwargs)
+[rank0]:            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/transformers/models/llama/modeling_llama.py", line 1001, in forward
+[rank0]:     layer_outputs = decoder_layer(
+[rank0]:                     ^^^^^^^^^^^^^^
+[rank0]:   File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1553, in _wrapped_call_impl
+[rank0]:     return self._call_impl(*args, **kwargs)
+[rank0]:            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1562, in _call_impl
+[rank0]:     return forward_call(*args, **kwargs)
+[rank0]:            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/torch/distributed/fsdp/fully_sharded_data_parallel.py", line 849, in forward
+[rank0]:     args, kwargs = _pre_forward(
+[rank0]:                    ^^^^^^^^^^^^^
+[rank0]:   File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/torch/distributed/fsdp/_runtime_utils.py", line 381, in _pre_forward
+[rank0]:     unshard_fn(state, handle)
+[rank0]:   File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/torch/distributed/fsdp/_runtime_utils.py", line 416, in _pre_forward_unshard
+[rank0]:     _unshard(state, handle, state._unshard_stream, state._pre_unshard_stream)
+[rank0]:   File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/torch/distributed/fsdp/_runtime_utils.py", line 298, in _unshard
+[rank0]:     event.synchronize()
+[rank0]:   File "/home/al2644/anaconda3/envs/nlp/lib/python3.12/site-packages/torch/cuda/streams.py", line 225, in synchronize
+[rank0]:     super().synchronize()
+[rank0]: KeyboardInterrupt

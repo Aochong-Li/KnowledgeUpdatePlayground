@@ -1,0 +1,8 @@
+{"time":"2025-01-06T17:58:24.545061638-05:00","level":"INFO","msg":"using version","core version":"0.18.6"}
+{"time":"2025-01-06T17:58:24.545088686-05:00","level":"INFO","msg":"created symlink","path":"/home/al2644/research/codebase/knowledge_update/training/wandb/run-20250106_175824-suxyovgk/logs/debug-core.log"}
+{"time":"2025-01-06T17:58:24.665286347-05:00","level":"INFO","msg":"created new stream","id":"suxyovgk"}
+{"time":"2025-01-06T17:58:24.665313376-05:00","level":"INFO","msg":"stream: started","id":"suxyovgk"}
+{"time":"2025-01-06T17:58:24.665353551-05:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"suxyovgk"}}
+{"time":"2025-01-06T17:58:24.66559577-05:00","level":"INFO","msg":"sender: started","stream_id":"suxyovgk"}
+{"time":"2025-01-06T17:58:24.665465564-05:00","level":"INFO","msg":"handler: started","stream_id":{"value":"suxyovgk"}}
+{"time":"2025-01-06T17:58:24.902989758-05:00","level":"INFO","msg":"Starting system monitor"}

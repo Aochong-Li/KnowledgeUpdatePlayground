@@ -1,0 +1,19 @@
+{"time":"2025-02-06T02:32:58.403093522-05:00","level":"INFO","msg":"using version","core version":"0.18.6"}
+{"time":"2025-02-06T02:32:58.403138018-05:00","level":"INFO","msg":"created symlink","path":"/home/al2644/research/codebase/knowledge_update/training/wandb/run-20250206_023258-jp30d30b/logs/debug-core.log"}
+{"time":"2025-02-06T02:32:58.527035161-05:00","level":"INFO","msg":"created new stream","id":"jp30d30b"}
+{"time":"2025-02-06T02:32:58.527089342-05:00","level":"INFO","msg":"stream: started","id":"jp30d30b"}
+{"time":"2025-02-06T02:32:58.527370615-05:00","level":"INFO","msg":"sender: started","stream_id":"jp30d30b"}
+{"time":"2025-02-06T02:32:58.527258397-05:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"jp30d30b"}}
+{"time":"2025-02-06T02:32:58.52752273-05:00","level":"INFO","msg":"handler: started","stream_id":{"value":"jp30d30b"}}
+{"time":"2025-02-06T02:32:58.729856273-05:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-06T04:10:18.598430598-05:00","level":"INFO","msg":"stream: closing","id":"jp30d30b"}
+{"time":"2025-02-06T04:10:18.598610594-05:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-06T04:10:18.599966774-05:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-06T04:10:18.732192815-05:00","level":"WARN","msg":"No job ingredients found, not creating job artifact"}
+{"time":"2025-02-06T04:10:18.732220466-05:00","level":"WARN","msg":"No source type found, not creating job artifact"}
+{"time":"2025-02-06T04:10:18.732229945-05:00","level":"INFO","msg":"sender: sendDefer: no job artifact to save"}
+{"time":"2025-02-06T04:10:19.020100057-05:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-02-06T04:10:19.148523195-05:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"jp30d30b"}}
+{"time":"2025-02-06T04:10:19.148610532-05:00","level":"INFO","msg":"sender: closed","stream_id":"jp30d30b"}
+{"time":"2025-02-06T04:10:19.148603001-05:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"jp30d30b"}}
+{"time":"2025-02-06T04:10:19.150423683-05:00","level":"INFO","msg":"stream: closed","id":"jp30d30b"}
