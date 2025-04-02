@@ -13,7 +13,7 @@ Welcome to **Knowledge Update Playground (KUP)** — an automatic framework for 
 KUP helps researchers and practitioners:
 - **Generate** realistic **knowledge update pairs** to simulate real-world knowledge shifts and conflicts.
 - **Evaluate** LLMs’ adaptability to knowledge updates during fine-tuning or continued pre-training.
-- **Train** LLMs using both **continued pre-training** and **supervised fine-tuning** following the setup in the [Synthetic Continued Pre-training paper](https://github.com/ZitongYang/Synthetic_Continued_Pretraining).
+- **Train** LLMs using both **continued pre-training** and **supervised fine-tuning** following the setup in [Synthetic Continued Pre-training](https://github.com/ZitongYang/Synthetic_Continued_Pretraining).
 
 This playground is designed to benchmark how well LLMs handle **incremental knowledge**, especially in dynamic environments.
 > **Note:** The `main` branch is fully functional. However, we are actively working on improving code readability, structure, and usability to make the project more production-ready in `prod` branch.
