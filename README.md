@@ -1,8 +1,14 @@
-# Knowledge Update Playground (KUP)
+<h1 align="center">Knowledge Update Playground (KUP)</h1>
 
-[![Hugging Face Dataset](https://img.shields.io/badge/Dataset-HuggingFace-blue)](https://huggingface.co/datasets/aochongoliverli/KUP)
-[![License](https://img.shields.io/badge/License-Apache%202.0-green)](./LICENSE)
-[![Build Status](https://img.shields.io/badge/Status-Work%20In%20Progress-orange)]()
+<p align="center">
+  <a href="https://huggingface.co/datasets/aochongoliverli/KUP">
+    <img src="https://img.shields.io/badge/Dataset-HuggingFace-blue" alt="Hugging Face Dataset">
+  </a>
+  <a href="./LICENSE">
+    <img src="https://img.shields.io/badge/License-Apache%202.0-green" alt="License">
+  </a>
+  <img src="https://img.shields.io/badge/Status-Work%20In%20Progress-orange" alt="Build Status">
+</p>
 
 ---
 
