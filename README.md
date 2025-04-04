@@ -1,8 +1,14 @@
-# Knowledge Update Playground (KUP)
+<h1 align="center">Knowledge Update Playground (KUP)</h1>
 
-[![Hugging Face Dataset](https://img.shields.io/badge/Dataset-HuggingFace-blue)](https://huggingface.co/datasets/aochongoliverli/KUP)
-[![License](https://img.shields.io/badge/License-Apache%202.0-green)](./LICENSE)
-[![Build Status](https://img.shields.io/badge/Status-Work%20In%20Progress-orange)]()
+<p align="center">
+  <a href="https://huggingface.co/datasets/aochongoliverli/KUP">
+    <img src="https://img.shields.io/badge/Dataset-HuggingFace-blue" alt="Hugging Face Dataset">
+  </a>
+  <a href="./LICENSE">
+    <img src="https://img.shields.io/badge/License-Apache%202.0-green" alt="License">
+  </a>
+  <img src="https://img.shields.io/badge/Status-Work%20In%20Progress-orange" alt="Build Status">
+</p>
 
 ---
 
@@ -13,7 +19,7 @@ Welcome to **Knowledge Update Playground (KUP)** — an automatic framework for 
 KUP helps researchers and practitioners:
 - **Generate** realistic **knowledge update pairs** to simulate real-world knowledge shifts and conflicts.
 - **Evaluate** LLMs’ adaptability to knowledge updates during fine-tuning or continued pre-training.
-- **Train** LLMs using both **continued pre-training** and **supervised fine-tuning** following the setup in the [Synthetic Continued Pre-training paper](https://github.com/ZitongYang/Synthetic_Continued_Pretraining).
+- **Train** LLMs using both **continued pre-training** and **supervised fine-tuning** following the setup in [Synthetic Continued Pre-training](https://github.com/ZitongYang/Synthetic_Continued_Pretraining).
 
 This playground is designed to benchmark how well LLMs handle **incremental knowledge**, especially in dynamic environments.
 > **Note:** The `main` branch is fully functional. However, we are actively working on improving code readability, structure, and usability to make the project more production-ready in `prod` branch.
