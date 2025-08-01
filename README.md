@@ -30,8 +30,10 @@ This playground is designed to benchmark how well LLMs handle **incremental know
 
 The KUP dataset contains **5,000 high-quality knowledge update/conflict pairs**, automatically synthesized and verified to represent realistic knowledge shifts.
 
-🔗 **Hugging Face Dataset:**  
+🔗 **Hugging Face Dataset (Direct Probing):**  
 [https://huggingface.co/datasets/aochongoliverli/KUP](https://huggingface.co/datasets/aochongoliverli/KUP)
+
+
 
 ---
 
