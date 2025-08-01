@@ -34,8 +34,8 @@ The KUP dataset contains **5,000 high-quality knowledge update/conflict pairs**,
 [https://huggingface.co/datasets/aochongoliverli/KUP](https://huggingface.co/datasets/aochongoliverli/KUP)
 
 **Eval Dataset:**
-> You can generate direct probing multiple-choice questions, free-form questions with the scripts in kupeval.
-We include the evaluation dataset under the dataset dir.
+We include the evaluation dataset under the `dataset` dir.
+> **Note:** You can also generate direct probing multiple-choice questions, free-form questions with the scripts in kupeval.
 ---
 
 ## 📥 Installation
